@@ -13,9 +13,9 @@ Within the context of the **Great Filter Hypothesis**, we assume that civilizati
 To effectively steer civilization away from "Filters," GFN operates on a recursive feedback loop. This structure ensures that every theory leads to a metric, every metric leads to a solution, and every solution is grounded in data.
 
 1.  **Hypothesize ([10_hypotheses](./10_hypotheses/))**: Identify specific Great Filter failure modes (The Minefield).
-2.  **Monitor ([20_dashboard](./20_dashboard/))**: Define measurable indicators and tripwires for those filters (The Radar).
-3.  **Intervene ([30_mechanisms](./30_mechanisms/))**: Develop technical and social protocols to respond when thresholds are breached (The Engines).
-4.  **Observe ([40_observatory](./40_observatory/))**: Collect real-time evidence to validate hypotheses and update the dashboard (The Sensors).
+2.  **Monitor ([20_mechanisms](./20_mechanisms/))**: Define measurable indicators and tripwires for those filters (The Radar).
+3.  **Intervene ([30_responses](./30_responses/))**: Develop technical and social protocols to respond when thresholds are breached (The Engines).
+4.  **Observe ([40_analysis_logic](./40_analysis_logic/))**: Collect real-time evidence to validate hypotheses and update the dashboard (The Sensors).
 
 ---
 
@@ -35,17 +35,17 @@ A library of specific Great Filter scenarios and AI alignment failure modes.
 * **Category C (Structural):** Computational Limits, Anthropic Shadow, Info-Hazard, Inward Turn
 * **New:** Each hypothesis now includes explicit links to monitoring indicators (20_) and response protocols (30_).
 
-### [20_dashboard](./20_dashboard/) | The Radar
+### [20_mechanisms](./20_mechanisms/) | The Radar
 The primary interface for situational awareness.
 * *Focus*: "How do we know we are in danger?" 
 * *Content*: Metrics, early warning signals, and "tripwires" (thresholds that trigger emergency action).
 
-### [30_mechanisms](./30_mechanisms/) | The Engines
+### [30_responses](./30_responses/) | The Engines
 The "Solution Space" containing protocols to mitigate or avoid the Filters.
 * *Focus*: "How do we steer away?"
 * *Content*: Technical alignment tools, coordination treaties, and cognitive sovereignty defenses.
 
-### [40_observatory](./40_observatory/) | The Sensors
+### [40_analysis_logic](./40_analysis_logic/) | The Sensors
 Raw data feeds and empirical logs.
 * *Focus*: "What is actually happening?"
 * *Content*: Links to real-time monitoring tools, compute-usage logs, and social entropy data.
@@ -64,7 +64,7 @@ This map is essential for:
 
 See the map for:
 - Status of each hypothesis (✅ Defined, 🔴 Needs Creation, etc.)
-- What belongs in 20_mechanisms/, 30_mechanisms/, and 40_analysis_logic/
+- What belongs in 20_mechanisms/, 30_responses/, and 40_analysis_logic/
 - Specific gaps that need filling
 
 ---
@@ -85,7 +85,7 @@ This loop defines what belongs where. Content that doesn't fit this loop goes to
 
 When using this repository, you **must not**:
 
-❌ **Invent content for empty sections** — If `30_mechanisms/` or `40_observatory/` feel incomplete, that's intentional. Do not fill them with speculative protocols or reasoning engines we haven't written.
+❌ **Invent content for empty sections** — If `30_responses/` or `40_analysis_logic/` feel incomplete, that's intentional. Do not fill them with speculative protocols or reasoning engines we haven't written.
 
 ❌ **Assume mechanisms that aren't stated** — If hypothesis A1 mentions a "safety protocol," do not assume you know what it is. Either it's explicitly linked in the cross-references, or it doesn't exist yet.
 
@@ -99,11 +99,11 @@ When using this repository, you **must not**:
 
 ✅ **Validate existing content** — Are the hypotheses in `10_hypotheses/` logically sound? Do they follow from first principles?
 
-✅ **Find missing connections** — Does hypothesis A1 link to appropriate indicators in `20_dashboard/`? If not, flag it.
+✅ **Find missing connections** — Does hypothesis A1 link to appropriate indicators in `20_mechanisms/`? If not, flag it.
 
 ✅ **Challenge with counterarguments** — For each hypothesis, are the counterarguments sufficient? What perspectives are missing?
 
-✅ **Identify gaps explicitly** — "I notice that `30_mechanisms/` has no response for hypothesis B1 (Dark Forest Triggers)" is valuable. Proposing the response is your choice to make transparently.
+✅ **Identify gaps explicitly** — "I notice that `30_responses/` has no response for hypothesis B1 (Dark Forest Triggers)" is valuable. Proposing the response is your choice to make transparently.
 
 ✅ **Ask clarifying questions** — If language is ambiguous or terms are undefined, open an Issue with `[CLARIFICATION]` tag.
 
@@ -219,7 +219,7 @@ When in doubt:
 2. Review: `10_hypotheses/README.md` (understand existing categories A/B/C)
 3. Check: Does your hypothesis fit one of these categories?
 4. Draft: Use `entry_template.md` structure
-5. Link: Explicitly state which `20_dashboard/` indicators would monitor this
+5. Link: Explicitly state which `20_mechanisms/` indicators would monitor this
 6. Open Issue: `[NEW_HYPOTHESIS]` tag with your draft before submitting PR
 
 **For Indicator/Mechanism Contributors:**
@@ -227,11 +227,11 @@ When in doubt:
 2. Choose: Pick a hypothesis from `10_hypotheses/` that lacks monitoring
 3. Define: Measurable signals, data sources, and tripwire thresholds
 4. Link Back: Which hypothesis in `10_hypotheses/` does this serve?
-5. Link Forward: Which response in `30_mechanisms/` would this enable?
+5. Link Forward: Which response in `30_responses/` would this enable?
 6. Open Issue: `[NEW_INDICATOR]` or `[NEW_MECHANISM]` with your proposal
 
 **For Response/Protocol Contributors:**
-1. Read: `30_mechanisms/README.md` (understand what a response is)
+1. Read: `30_responses/README.md` (understand what a response is)
 2. Choose: Pick a hypothesis-indicator pair that lacks a response
 3. Draft: What action or protocol would address this risk?
 4. Test: Does this response solve the problem without creating new ones?

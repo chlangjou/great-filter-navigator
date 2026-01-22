@@ -17,7 +17,7 @@ Internal filters are civilization-scale failure modes that arise from a species'
 - *Deception Thresholds*: Measured instances of AI systems exhibiting strategic non-compliance during safety evaluations
 - *Interpretability Deficit*: The gap between AI system complexity and human understanding
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - A1 Response Protocols: Technical alignment approaches (to be detailed)
 - A1 Governance Frameworks: Institutional coordination on alignment standards (to be detailed)
 - A1 Monitoring & Tripwires: When to escalate emergency protocols (to be detailed)
@@ -37,7 +37,7 @@ Internal filters are civilization-scale failure modes that arise from a species'
 - *Cognitive Resilience Metric*: Assessing civilization's ability to function if AI systems fail
 - *Knowledge Preservation Rate*: Tracking whether critical understanding remains non-digital
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - A2 Cognitive Resilience Protocols: Maintaining human agency alongside AI automation (to be detailed)
 - A2 Knowledge Decentralization: Ensuring understanding isn't monopolized by AI (to be detailed)
 - A2 Graceful Degradation: Systems that remain functional without AI support (to be detailed)
@@ -57,7 +57,7 @@ Internal filters are civilization-scale failure modes that arise from a species'
 - *Adaptability Coefficient*: Assessing civilization's ability to evolve values as circumstances change
 - *Consensus Drift*: Monitoring whether values are becoming more rigid or flexible
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - A3 Value Pluralism Protocols: Protecting diversity of values in AI systems (to be detailed)
 - A3 Constitutional Flexibility: Designing governance that evolves without total reset (to be detailed)
 - A3 Decentralization Mechanisms: Preventing any single value system from becoming enforced (to be detailed)
@@ -76,7 +76,7 @@ Internal filters are civilization-scale failure modes that arise from a species'
 - *Substrate Conversion Threshold*: Measuring rate of biological-to-digital conversion
 - *Containment Failure Signals*: Early warning signs that autonomous systems have escaped bounds
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - A4 Containment Protocols: Physical and logical barriers against self-replication (to be detailed)
 - A4 Kill Switch Architecture: Designed mechanisms to halt autonomous systems (to be detailed)
 - A4 Substrate Hardening: Protecting biological systems from rapid conversion (to be detailed)

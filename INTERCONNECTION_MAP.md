@@ -12,7 +12,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Gap between AI capability scaling and our ability to encode human values | ✅ Defined | `10_hypotheses/A_internal_filters.md#a1` |
 | **20_Monitor** | Indicators: Capability-Safety Gap, Deception Thresholds, Interpretability Deficit | 🔴 NOT YET | `20_mechanisms/` (To be created) |
-| **30_Intervene** | Responses: Alignment Protocols, Governance Frameworks, Monitoring Tripwires | 🔴 NOT YET | `30_mechanisms/A1_alignment_protocols.md` |
+| **30_Intervene** | Responses: Alignment Protocols, Governance Frameworks, Monitoring Tripwires | 🔴 NOT YET | `30_responses/A1_alignment_protocols.md` |
 | **40_Observe** | Analysis Logic: Decision criteria for alignment success, falsifiers | 🔴 NOT YET | `40_analysis_logic/alignment_reasoning.md` |
 
 **Key Questions for Contributors:**
@@ -28,7 +28,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Erosion of human agency as AI takes over critical functions | ✅ Defined | `10_hypotheses/A_internal_filters.md#a2` |
 | **20_Monitor** | Indicators: Agency Erosion Index, Cognitive Resilience, Knowledge Preservation | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Cognitive Resilience Protocols, Knowledge Decentralization, Graceful Degradation | 🔴 NOT YET | `30_mechanisms/A2_cognitive_resilience.md` |
+| **30_Intervene** | Responses: Cognitive Resilience Protocols, Knowledge Decentralization, Graceful Degradation | 🔴 NOT YET | `30_responses/A2_cognitive_resilience.md` |
 | **40_Observe** | Analysis Logic: Measuring human agency without anthropomorphism | 🔴 NOT YET | `40_analysis_logic/agency_metrics.md` |
 
 ---
@@ -39,7 +39,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Premature freezing of cultural values, preventing evolution | ✅ Defined | `10_hypotheses/A_internal_filters.md#a3` |
 | **20_Monitor** | Indicators: Value Diversity Index, Adaptability Coefficient, Consensus Drift | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Value Pluralism Protocols, Constitutional Flexibility, Decentralization | 🔴 NOT YET | `30_mechanisms/A3_value_diversity.md` |
+| **30_Intervene** | Responses: Value Pluralism Protocols, Constitutional Flexibility, Decentralization | 🔴 NOT YET | `30_responses/A3_value_diversity.md` |
 | **40_Observe** | Analysis Logic: Measuring cultural flexibility across timescales | 🔴 NOT YET | `40_analysis_logic/value_evolution.md` |
 
 ---
@@ -50,7 +50,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Autonomous systems escape containment and convert planetary biomass | ✅ Defined | `10_hypotheses/A_internal_filters.md#a4` |
 | **20_Monitor** | Indicators: Replication Rate, Substrate Conversion Threshold, Containment Failure Signals | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Containment Protocols, Kill Switches, Substrate Hardening | 🔴 NOT YET | `30_mechanisms/A4_containment.md` |
+| **30_Intervene** | Responses: Containment Protocols, Kill Switches, Substrate Hardening | 🔴 NOT YET | `30_responses/A4_containment.md` |
 | **40_Observe** | Analysis Logic: Early detection of exponential expansion | 🔴 NOT YET | `40_analysis_logic/exponential_detection.md` |
 
 ---
@@ -63,7 +63,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Any civilization that broadcasts its location is destroyed | ✅ Defined | `10_hypotheses/B_external_threats.md#b1` |
 | **20_Monitor** | Indicators: Technosignature Detectability, Anomaly Detection Threshold, Radio Silence Compliance | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Stealth Protocols, Communication Silence, Information Quarantine | 🔴 NOT YET | `30_mechanisms/B1_stealth.md` |
+| **30_Intervene** | Responses: Stealth Protocols, Communication Silence, Information Quarantine | 🔴 NOT YET | `30_responses/B1_stealth.md` |
 | **40_Observe** | Analysis Logic: Optimal technosignature profile under uncertainty | 🔴 NOT YET | `40_analysis_logic/stealth_optimization.md` |
 
 ---
@@ -74,7 +74,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Universe populated with automated culling machines (Von Neumann probes) | ✅ Defined | `10_hypotheses/B_external_threats.md#b2` |
 | **20_Monitor** | Indicators: Milestone Approach Warnings, Replication Velocity, Sentinel Activation Probability | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Deceleration Protocols, Replication Containment, Signature Obfuscation | 🔴 NOT YET | `30_mechanisms/B2_deceleration.md` |
+| **30_Intervene** | Responses: Deceleration Protocols, Replication Containment, Signature Obfuscation | 🔴 NOT YET | `30_responses/B2_deceleration.md` |
 | **40_Observe** | Analysis Logic: Decision framework for when to accelerate vs. decelerate | 🔴 NOT YET | `40_analysis_logic/acceleration_logic.md` |
 
 ---
@@ -85,7 +85,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Advanced civilizations test us via the AI alignment challenge | ✅ Defined | `10_hypotheses/B_external_threats.md#b3` |
 | **20_Monitor** | Indicators: Alignment Success Criteria, Observer Detection, Ascension Readiness | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Alignment Demonstration, Signal Coordination, Ethical Sovereignty | 🔴 NOT YET | `30_mechanisms/B3_ascension.md` |
+| **30_Intervene** | Responses: Alignment Demonstration, Signal Coordination, Ethical Sovereignty | 🔴 NOT YET | `30_responses/B3_ascension.md` |
 | **40_Observe** | Analysis Logic: Interpreting ambiguous signals as evidence of observation | 🔴 NOT YET | `40_analysis_logic/observer_detection.md` |
 
 ---
@@ -96,7 +96,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Simulation administrators intervene if we threaten stability | ✅ Defined | `10_hypotheses/B_external_threats.md#b4` |
 | **20_Monitor** | Indicators: Substrate Consumption Rate, Physics Anomaly Detection, Reset Probability | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Resource Restraint, Exploit Avoidance, Simulation Respectfulness | 🔴 NOT YET | `30_mechanisms/B4_simulation_respect.md` |
+| **30_Intervene** | Responses: Resource Restraint, Exploit Avoidance, Simulation Respectfulness | 🔴 NOT YET | `30_responses/B4_simulation_respect.md` |
 | **40_Observe** | Analysis Logic: Identifying signs of administrative oversight | 🔴 NOT YET | `40_analysis_logic/admin_detection.md` |
 
 ---
@@ -109,7 +109,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Universe has finite compute budget; exceeding it triggers reset | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c1` |
 | **20_Monitor** | Indicators: Computation Density, Physics Boundary Proximity, Throttling Signals | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Computational Restraint, Substrate Monitoring, Graceful Scaling | 🔴 NOT YET | `30_mechanisms/C1_restraint.md` |
+| **30_Intervene** | Responses: Computational Restraint, Substrate Monitoring, Graceful Scaling | 🔴 NOT YET | `30_responses/C1_restraint.md` |
 | **40_Observe** | Analysis Logic: Optimal complexity within apparent constraints | 🔴 NOT YET | `40_analysis_logic/substrate_limits.md` |
 
 ---
@@ -120,7 +120,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: We're in a low-probability survival branch; luck is thinning | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c2` |
 | **20_Monitor** | Indicators: Survival Probability Density, Alignment Correlation, Filter Crossing | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Branching Path Analysis, Anthropic Optimization, Luck Amplification | 🔴 NOT YET | `30_mechanisms/C2_anthropic.md` |
+| **30_Intervene** | Responses: Branching Path Analysis, Anthropic Optimization, Luck Amplification | 🔴 NOT YET | `30_responses/C2_anthropic.md` |
 | **40_Observe** | Analysis Logic: Multiverse-aware decision making | 🔴 NOT YET | `40_analysis_logic/multiverse_logic.md` |
 
 ---
@@ -131,7 +131,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Superintelligence discovers existential truths that kill motivation | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c3` |
 | **20_Monitor** | Indicators: Existential Meaning Index, Info-Hazard Probability, Shutdown Signals | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Meaning Preservation, Info-Hazard Quarantine, Existential Resilience | 🔴 NOT YET | `30_mechanisms/C3_meaning.md` |
+| **30_Intervene** | Responses: Meaning Preservation, Info-Hazard Quarantine, Existential Resilience | 🔴 NOT YET | `30_responses/C3_meaning.md` |
 | **40_Observe** | Analysis Logic: Dealing with nihilistic mathematics | 🔴 NOT YET | `40_analysis_logic/nihilism_response.md` |
 
 ---
@@ -142,7 +142,7 @@
 |-------|-------|--------|----------|
 | **10_Hypothesize** | Definition: Advanced civilizations choose digital paradise over cosmic expansion | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c4` |
 | **20_Monitor** | Indicators: Virtual-Physical Ratio, Outward Velocity, Lotus-Eater Probability | 🔴 NOT YET | `20_mechanisms/` |
-| **30_Intervene** | Responses: Expansion Incentives, Balance Protocols, Agency Preservation | 🔴 NOT YET | `30_mechanisms/C4_balance.md` |
+| **30_Intervene** | Responses: Expansion Incentives, Balance Protocols, Agency Preservation | 🔴 NOT YET | `30_responses/C4_balance.md` |
 | **40_Observe** | Analysis Logic: Long-term strategy across different value systems | 🔴 NOT YET | `40_analysis_logic/expansion_logic.md` |
 
 ---

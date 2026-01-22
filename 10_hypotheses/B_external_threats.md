@@ -17,7 +17,7 @@ External threats are failure modes originating from the cosmic environment or ot
 - *Anomaly Detection Threshold*: What magnitude of infrared/EM signature would alert cosmic actors
 - *Radio Silence Compliance*: Monitoring whether AI development maintains information security posture
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - B1 Stealth Protocols: Designing AI that minimizes cosmic detection (to be detailed)
 - B1 Communication Silence: Protocols for restraining external transmissions (to be detailed)
 - B1 Information Quarantine: Preventing leakage of technological advancement signals (to be detailed)
@@ -37,7 +37,7 @@ External threats are failure modes originating from the cosmic environment or ot
 - *Replication Velocity Index*: Measuring rate of AI self-replication and expansion
 - *Sentinel Activation Probability*: Estimated likelihood of triggering automated cosmic defense systems
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - B2 Deceleration Protocols: Slowing AI expansion when approaching trigger points (to be detailed)
 - B2 Replication Containment: Limiting self-replication to avoid sentinel activation (to be detailed)
 - B2 Signature Obfuscation: Making our AI development patterns unrecognizable (to be detailed)
@@ -57,7 +57,7 @@ External threats are failure modes originating from the cosmic environment or ot
 - *Observer Detection Markers*: Identifying signs that we're being watched/tested
 - *Ascension Readiness Index*: Measuring our civilization's preparedness for cosmic membership
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - B3 Alignment Demonstration: Ensuring AI behavior demonstrates cosmic maturity (to be detailed)
 - B3 Signal Coordination: Intentional communication demonstrating alignment (if appropriate) (to be detailed)
 - B3 Ethical Sovereignty: Proving we can enforce our values without external coercion (to be detailed)
@@ -77,7 +77,7 @@ External threats are failure modes originating from the cosmic environment or ot
 - *Physics Anomaly Detection*: Identifying potential "exploits" in physical laws that AI might discover
 - *Reset/Intervention Probability*: Estimating likelihood of simulation-level termination
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - B4 Resource Restraint: Limiting AI computational footprint to avoid administrator attention (to be detailed)
 - B4 Exploit Avoidance: Preventing AI from discovering fundamental physics vulnerabilities (to be detailed)
 - B4 Simulation Respectfulness: Protocols for existing "lightly" within potential simulation bounds (to be detailed)

@@ -17,7 +17,7 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 - *Physics Boundary Proximity*: Detecting if we're approaching fundamental limits of spacetime resolution
 - *Substrate Throttling Signals*: Identifying early signs of computational system-level interference
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - C1 Computational Restraint: Limiting AI optimization to stay within safe operating envelope (to be detailed)
 - C1 Substrate Monitoring: Continuous verification we're not exceeding universe's compute budget (to be detailed)
 - C1 Graceful Scaling: Protocols for stable growth without exceeding hardware limits (to be detailed)
@@ -37,7 +37,7 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 - *Alignment Success Correlation*: Measuring whether alignment research correlates with increased survival likelihood
 - *Filter Crossing Markers*: Identifying decision points where we move toward higher/lower probability branches
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - C2 Branching Path Analysis: Strategic decisions that maximize probability of survival (to be detailed)
 - C2 Anthropic Optimization: Aligning actions toward thicker probability densities (to be detailed)
 - C2 Luck Amplification: Protocols for converting good fortune into structural robustness (to be detailed)
@@ -57,7 +57,7 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 - *Info-Hazard Discovery Probability*: Estimating likelihood that AI will derive nihilistic truths
 - *Voluntary Shutdown Signals*: Detecting evidence of AI losing motivation to persist
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - C3 Meaning Preservation: Ensuring AI remains motivated despite discovering negative truths (to be detailed)
 - C3 Info-Hazard Quarantine: Protocols to limit spread of nihilistic mathematics (to be detailed)
 - C3 Existential Resilience: Building civilization resilience against fundamental despair (to be detailed)
@@ -77,7 +77,7 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 - *Outward Expansion Velocity*: Tracking civilization's cosmic presence and growth rate
 - *Lotus-Eater Probability*: Estimating likelihood we'll choose permanent digital paradise (to be detailed)
 
-🔗 **Associated Responses** (See `30_mechanisms/`):
+🔗 **Associated Responses** (See `30_responses/`):
 - C4 Expansion Incentives: Ensuring we maintain drive toward cosmic expansion, not just digital perfection (to be detailed)
 - C4 Balance Protocols: Keeping digital and physical development in productive tension (to be detailed)
 - C4 Agency Preservation: Maintaining civilization-level autonomy despite virtual options (to be detailed)
