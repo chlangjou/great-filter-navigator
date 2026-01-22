@@ -1,44 +1,45 @@
-# 20_dashboard: Risk Indicators & Early Warning Systems
+# 20_dashboard: Navigator Indicators
 
-## Overview
-The Dashboard is the "Radar" of the Great Filter Navigator. Its purpose is to define, track, and visualize the specific indicators that suggest a Great Filter event or a significant AI alignment failure is approaching. 
+## Mission Alignment
+In the context of the Great Filter, we are navigating a "Minefield of Extinction." The Dashboard serves as the primary visual and analytical interface of the Navigator. It maps specific **Great Filter Hypotheses** (from `10_`) to measurable **Indicators**, providing civilization with the early warning required to initiate survival mechanisms.
 
-By establishing **Tripwires** and **Metrics**, we aim to move from speculative fear to data-driven situational awareness.
+## 1. Great Filter Risk Indicators
+We track the "Proximity to the Filter" across several predefined scenarios:
 
-## Core Monitoring Domains
+### A. The "Silent Intelligence" Filter (Pre-Alignment)
+* **Objective**: Monitoring if we are failing to align AI before it reaches superintelligence.
+* **Key Indicators**: 
+    * *Capability-Safety Gap*: The divergence between AI reasoning capabilities and our ability to interpret/control them.
+    * *Deception Thresholds*: Measured instances of AI systems exhibiting strategic non-compliance or "sandbagging" during safety evals.
 
-### 1. Technical & Capability Overhang (Technical Indicators)
-Monitoring the "intelligence explosion" and the emergence of unaligned capabilities.
-* **Compute Scaling**: Tracking the total FLOPs used in state-of-the-art training runs.
-* **Capability Evals**: Indicators of deception, self-proliferation, or advanced recursive self-improvement.
-* **Alignment Tax**: Measuring the performance gap between aligned and unaligned models.
+### B. The "Resource Exhaustion" Filter (Structural)
+* **Objective**: Monitoring if the race for AI supremacy leads to irreversible depletion of physical or cognitive resources.
+* **Key Indicators**: 
+    * *Compute Concentration Index*: The degree to which civilizational intelligence is controlled by fragile, centralized entities.
+    * *Energy-Alignment Ratio*: Total energy consumption for training vs. safety research.
 
-### 2. Epistemic & Social Stability (Cognitive Indicators)
-Monitoring the health of the "Internet of Sovereignty" and collective human intelligence.
-* **Information Entropy**: Tracking the ratio of synthetic vs. human-generated content in public discourse.
-* **Institutional Trust**: Metrics on the breakdown of shared reality and consensus-building capabilities.
-* **Polarization Index**: Early warning for AI-accelerated social fragmentation.
+### C. The "Information Entropism" Filter (Cognitive)
+* **Objective**: Monitoring if AI-driven noise destroys the collective human ability to coordinate, effectively acting as a Filter.
+* **Key Indicators**: 
+    * *Consensus Decay Rate*: The speed at which shared reality is eroding in digital-first societies.
+    * *Synthetic Saturation*: The percentage of the "Cognitive Commons" occupied by unaligned AI agents.
 
-### 3. Strategic & Geopolitical Tension (Structural Indicators)
-Monitoring the "Multi-polar Traps" and the race to the bottom.
-* **Compute Concentration**: Tracking the geographic and corporate distribution of high-end AI hardware.
-* **Regulatory Drift**: Indicators of "safety-washing" or the abandonment of safety protocols in competitive races.
-* **Resource Scarcity**: Monitoring critical supply chains (e.g., HBM, advanced lithography) as potential flashpoints.
-
-### 4. Biological & Existential Thresholds (Environmental Indicators)
-Monitoring physical risks that could trigger a Great Filter event.
-* **Biosynthesis Capability**: Monitoring the accessibility of DNA synthesis tools and pathogen blueprints.
-* **Autonomous Kinetic Systems**: Tracking the deployment of AI in lethal autonomous weapons (LAWS).
-
-## The Methodology: Tripwires and Thresholds
-Every indicator in this directory should attempt to define:
-1. **Green (Baseline)**: Normal technological/social progression.
-2. **Yellow (Caution)**: Significant deviation; requires increased oversight and "Adversarial Scenarios" review.
-3. **Red (Tripwire)**: Critical threshold reached; immediate activation of `Mechanisms` (from the next layer) is required.
+## 2. Navigational Status (The Dashboard Interface)
+Every indicator must contribute to a high-level "Navigator Status" which informs our strategic posture:
 
 
 
-## How to Add an Indicator
-1. **Link to Hypothesis**: Every indicator must monitor at least one threat defined in `10_hypotheses`.
-2. **Define the Metric**: What exactly are we measuring? (e.g., $/GFLOP, Misinfo-rate).
-3. **Identify Data Sources**: Where can the `Observatory` (30_) pull real-time data from?
+| Status Level | Description | Triggered Action |
+| :--- | :--- | :--- |
+| **NOMINAL** | Alignment is pacing with capabilities. | Continue exploration and research. |
+| **CAUTION** | Indicators suggest a specific Filter is approaching. | Prioritize specific `30_mechanisms` related to the threat. |
+| **CRITICAL** | Multiple Filter thresholds breached. | Initiate civilizational-level emergency protocols/Containment. |
+
+## 3. Implementation Requirements
+Each dashboard entry (metric) must include:
+* **Associated Hypothesis**: Which specific Great Filter (from `10_`) does this metric track?
+* **Data Source**: Link to the `40_observatory` feed providing the raw evidence.
+* **Tripwire**: Define the exact numerical threshold that changes the Dashboard status from Green to Yellow/Red.
+
+---
+*"The purpose of a Navigator is not to predict the end, but to steer the ship away from it."*
