@@ -103,7 +103,7 @@ great-filter-navigator/
 ├── CONTRIBUTING.md            # How to participate
 ├── DISCLAIMER.md              # Important caveats
 │
-├── /hypotheses/               # Catalog of existential risk scenarios
+├── /00_hypotheses/               # Catalog of existential risk scenarios
 │   ├── /filter-selection/     # Great Filter variants
 │   ├── /competition-threat/   # Dark Forest, Predator, etc.
 │   ├── /neutral-structural/   # Rare Earth, Time Window, etc.
