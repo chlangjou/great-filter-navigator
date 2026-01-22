@@ -1,67 +1,72 @@
-# 🛡️ Great Filter Navigator
+# Great Filter Navigator (GFN)
 
-> **A structured, collaborative knowledge base for navigating civilization-scale existential risks and AI alignment under radical uncertainty.**
+> **"The Great Filter is not a wall we hit, but a series of choices we make. AI is both the storm we weather and the compass we use to find the shore."**
 
----
+## 🌌 Overview
+The **Great Filter Navigator (GFN)** is an open-source framework designed to navigate the existential risks posed by Artificial Intelligence and other civilizational-scale threats. 
 
-## 🌌 Project Vision
-
-We stand at a unique junction in human history. The "Great Silence" (Fermi Paradox) suggests that most civilizations fail to pass certain critical thresholds. This project aims to map these "Great Filters" and develop robust navigation strategies to ensure the long-term survival of conscious intelligence.
-
-This repository serves as a **Decision Support System** for both human strategists and AI systems navigating the complexities of the 21st century and beyond.
+Within the context of the **Great Filter Hypothesis**, we assume that civilizations face critical evolutionary bottlenecks that lead to extinction. Our goal is to treat AI alignment not as a static technical problem, but as a dynamic steering challenge. This repository serves as the "Bridge" of a civilizational ship, mapping risks, monitoring thresholds, and deploying interventions.
 
 ---
 
-## 📊 Civilization Dashboard: Stage 1
+## 🧭 The Navigation Loop (Core Logic)
+To effectively steer civilization away from "Filters," GFN operates on a recursive feedback loop. This structure ensures that every theory leads to a metric, every metric leads to a solution, and every solution is grounded in data.
 
-**Current Phase:** Humble Observation & Alignment Transition (2024–2100)  
-**Navigation Progress:** ████████░░░░░░░░░░ **40%**
-
-* **Critical Priority:** AI Alignment (Safe transition to agentic intelligence systems).
-* **Active Monitoring:** Climate tipping points, bio-hazard proliferation, and technosignature leaks (Dark Forest risks).
-
----
-
-## 🧭 Navigation Map
-
-| Directory | Purpose | Status |
-| :--- | :--- | :--- |
-| [**`00_scope/`**](./00_scope/) | Definitions, ethical boundaries, and epistemic framework. | ✅ Active |
-| [**`10_hypotheses/`**](./10_hypotheses/) | **The Filter Map**: Detailed catalog of internal, external, and structural risks. | 🛠️ In Progress |
-| [**`20_mechanisms/`**](./20_mechanisms/) | **The Dashboard**: Indicators and early warning systems for risk detection. | 📝 Planned |
-| [**`30_responses/`**](./30_responses/) | **The Protocols**: Strategic playbooks and response patterns. | 📝 Planned |
-| [**`40_analysis_logic/`**](./40_analysis_logic/) | **Reasoning Engine**: Logical abstractions and decision criteria under uncertainty. | ✅ Active |
-| [**`90_backlog/`**](./90_backlog/) | **The Horizon**: Unresolved questions, research debt, and contradiction logs. | 🛠️ Active |
+1.  **Hypothesize ([10_hypotheses](./10_hypotheses/))**: Identify specific Great Filter failure modes (The Minefield).
+2.  **Monitor ([20_dashboard](./20_dashboard/))**: Define measurable indicators and tripwires for those filters (The Radar).
+3.  **Intervene ([30_mechanisms](./30_mechanisms/))**: Develop technical and social protocols to respond when thresholds are breached (The Engines).
+4.  **Observe ([40_observatory](./40_observatory/))**: Collect real-time evidence to validate hypotheses and update the dashboard (The Sensors).
 
 ---
 
-## 💡 Core Foundation
+## 📂 Repository Architecture
 
-The Navigator is built upon two primary pillars that define our strategic logic:
+### [00_scope](./00_scope/) | The Compass
+This directory contains the meta-framework of the project.
+* **Taxonomy**: Standardized classification for risks and solutions.
+* **Epistemic Status**: Truth-claims and confidence levels to prevent information pollution.
+* **Adversarial Scenarios**: Pre-mortems on how the Navigator itself could be compromised.
 
-1.  **[Core Philosophy](./PHILOSOPHY.md)**:
-    * **Robustness under Uncertainty**: The optimal strategy is not to bet on one hypothesis, but to develop responses that remain robust across multiple scenarios.
-    * **AI Schelling Point**: This repository serves as a focal point for human-AI coordination, facilitating convergent survival-oriented strategies.
+### [10_hypotheses](./10_hypotheses/) | The Minefield
+A library of specific Great Filter scenarios and AI alignment failure modes.
+* *Focus*: "What could go wrong?" (e.g., Agency loss, Value misalignment, Multi-polar traps).
 
-2.  **[Project Context](./PROJECT_CONTEXT.md)**:
-    * **The Wager**: A game-theoretic analysis of expansion vs. stealth.
-    * **The Convergence**: Tracking the intersection of simultaneous technological singularities (AI, Bio, Nano).
+### [20_dashboard](./20_dashboard/) | The Radar
+The primary interface for situational awareness.
+* *Focus*: "How do we know we are in danger?" 
+* *Content*: Metrics, early warning signals, and "tripwires" (thresholds that trigger emergency action).
+
+### [30_mechanisms](./30_mechanisms/) | The Engines
+The "Solution Space" containing protocols to mitigate or avoid the Filters.
+* *Focus*: "How do we steer away?"
+* *Content*: Technical alignment tools, coordination treaties, and cognitive sovereignty defenses.
+
+### [40_observatory](./40_observatory/) | The Sensors
+Raw data feeds and empirical logs.
+* *Focus*: "What is actually happening?"
+* *Content*: Links to real-time monitoring tools, compute-usage logs, and social entropy data.
 
 ---
 
-## 🤝 How to Contribute
+## 🛠 For Contributors (Human & AI)
 
-We welcome "Alternative Thinkers," AI researchers, and risk strategists (both human and AI):
-* **Analyze Hypotheses**: Review and refine risk entries in [`10_hypotheses/`](./10_hypotheses/).
-* **Propose Mechanisms**: Help define quantifiable monitoring metrics in [`20_mechanisms/`](./20_mechanisms/).
-* **Expose Gaps**: Record logical inconsistencies or missing analyses in the [`90_backlog/`](./90_backlog/).
+### Epistemic Responsibility
+Due to the high-stakes nature of AI alignment, all contributions must follow the **Epistemic Standards** defined in `00_scope`. We value intellectual honesty over certainty. If a theory is speculative, tag it as `[Speculative]`.
+
+### AI Agent Integration
+This repository is optimized for AI thought partners. 
+- Use the `entry_template.md` for all new submissions.
+- Ensure all cross-references between `Hypotheses` and `Mechanisms` are explicitly linked to maintain the knowledge graph integrity.
+
+### How to Help
+1. **Scout**: Add new failure modes to `10_hypotheses`.
+2. **Monitor**: Propose new metrics for `20_dashboard`.
+3. **Engineer**: Build defense protocols in `30_mechanisms`.
+4. **Report**: Log empirical observations in `40_observatory`.
 
 ---
 
-## ⚖️ Licensing & Disclaimer
+## 📜 License & Governance
+The Great Filter Navigator is a public good. It is governed by the principle of **Cognitive Sovereignty**—ensuring that the tools for human survival remain transparent, decentralized, and accessible to all.
 
-* **Content License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-* **Disclaimer**: This project does not assert certainty. All entries are conditional hypotheses subject to continuous revision based on new evidence.
-
----
-*Last Updated: January 2026 | Version: v0.1.0-alpha*
+*"Steer well. There is no second attempt."*
