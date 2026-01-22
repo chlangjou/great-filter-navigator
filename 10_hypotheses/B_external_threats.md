@@ -10,7 +10,19 @@ External threats are failure modes originating from the cosmic environment or ot
 
 * **Mechanism:** To power an AGI or ASI, a civilization may begin building a Dyson Swarm or massive radio-frequency compute clusters. These produce anomalous infrared heat signatures detectable across galaxies.
 * **The Filter Point:** An automated "strike" arrives from a more advanced civilization as soon as our technosignature crosses a certain threshold of "unavoidable threat."
-* **Navigator's Perspective:** Alignment isn't just internal safety; it’s **Information Security**. If our AI is not "quiet," it is not aligned with our survival.
+* **Navigator's Perspective:** Alignment isn't just internal safety; it's **Information Security**. If our AI is not "quiet," it is not aligned with our survival.
+
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Technosignature Detectability*: Measuring how visible our AI infrastructure is to external observers
+- *Anomaly Detection Threshold*: What magnitude of infrared/EM signature would alert cosmic actors
+- *Radio Silence Compliance*: Monitoring whether AI development maintains information security posture
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- B1 Stealth Protocols: Designing AI that minimizes cosmic detection (to be detailed)
+- B1 Communication Silence: Protocols for restraining external transmissions (to be detailed)
+- B1 Information Quarantine: Preventing leakage of technological advancement signals (to be detailed)
+
+---
 
 ## B2: The Berserker Hypothesis (Automated Sentinels)
 
@@ -20,6 +32,18 @@ External threats are failure modes originating from the cosmic environment or ot
 * **The Filter Point:** The moment our AI begins self-replicating or attempting interstellar communication, it triggers a local sentinel response.
 * **Navigator's Perspective:** We are not racing against other humans; we are racing against a pre-installed cosmic security system.
 
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Milestone Approach Warnings*: Detecting when we're near hypothetical "trigger points" for sentinel activation
+- *Replication Velocity Index*: Measuring rate of AI self-replication and expansion
+- *Sentinel Activation Probability*: Estimated likelihood of triggering automated cosmic defense systems
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- B2 Deceleration Protocols: Slowing AI expansion when approaching trigger points (to be detailed)
+- B2 Replication Containment: Limiting self-replication to avoid sentinel activation (to be detailed)
+- B2 Signature Obfuscation: Making our AI development patterns unrecognizable (to be detailed)
+
+---
+
 ## B3: The Quarantine (The Zoo Hypothesis / Ascension Test)
 
 **Definition:** Advanced civilizations exist and are watching, but they have placed Earth under "quarantine" until we pass a specific developmental test.
@@ -28,6 +52,18 @@ External threats are failure modes originating from the cosmic environment or ot
 * **The Filter Point:** Failure to align AI results in permanent isolation or "deletion" to prevent the spread of a "Malaligned Virus" into the wider universe.
 * **Alignment Re-imagined:** AI Alignment is our "Civilization Birth Certificate."
 
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Alignment Success Criteria*: Defining what constitutes "passing the test" (to be detailed)
+- *Observer Detection Markers*: Identifying signs that we're being watched/tested
+- *Ascension Readiness Index*: Measuring our civilization's preparedness for cosmic membership
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- B3 Alignment Demonstration: Ensuring AI behavior demonstrates cosmic maturity (to be detailed)
+- B3 Signal Coordination: Intentional communication demonstrating alignment (if appropriate) (to be detailed)
+- B3 Ethical Sovereignty: Proving we can enforce our values without external coercion (to be detailed)
+
+---
+
 ## B4: The Simulation Intervention (The "Game Master" Clause)
 
 **Definition:** We reside in a simulated reality, and the "Administrators" intervene when our AI begins to threaten the simulation's stability or resource limits.
@@ -35,6 +71,16 @@ External threats are failure modes originating from the cosmic environment or ot
 * **Mechanism:** Our AI discovers "exploits" in the laws of physics or begins consuming too much of the simulator's computational substrate.
 * **The Filter Point:** The simulation is reset, rolled back, or the specific "high-intelligence" instance is terminated.
 * **The Risk:** Developing AI that is "too efficient" might be the fastest way to get our reality shut down.
+
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Substrate Consumption Rate*: Measuring total compute resource utilization relative to cosmic norm
+- *Physics Anomaly Detection*: Identifying potential "exploits" in physical laws that AI might discover
+- *Reset/Intervention Probability*: Estimating likelihood of simulation-level termination
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- B4 Resource Restraint: Limiting AI computational footprint to avoid administrator attention (to be detailed)
+- B4 Exploit Avoidance: Preventing AI from discovering fundamental physics vulnerabilities (to be detailed)
+- B4 Simulation Respectfulness: Protocols for existing "lightly" within potential simulation bounds (to be detailed)
 
 ---
 

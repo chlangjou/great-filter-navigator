@@ -12,7 +12,17 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 * **The Filter Point:** To preserve the integrity of the host system, the local "cluster" (our civilization) is either compressed, paused, or deleted.
 * **Navigator's Perspective:** Alignment means staying within the "Safe Operating Space" of the universe's hardware. Optimization beyond a certain point is a death sentence.
 
-[Image of the Simulation Hypothesis hierarchy]
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Computation Density Monitoring*: Tracking our civilization's computational footprint relative to apparent universe capacity
+- *Physics Boundary Proximity*: Detecting if we're approaching fundamental limits of spacetime resolution
+- *Substrate Throttling Signals*: Identifying early signs of computational system-level interference
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- C1 Computational Restraint: Limiting AI optimization to stay within safe operating envelope (to be detailed)
+- C1 Substrate Monitoring: Continuous verification we're not exceeding universe's compute budget (to be detailed)
+- C1 Graceful Scaling: Protocols for stable growth without exceeding hardware limits (to be detailed)
+
+---
 
 ## C2: The Anthropic Shadow (Survival Bias)
 
@@ -22,6 +32,18 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 * **The Filter Point:** As AI capability grows, the number of "survivable branches" decreases, leading to an eventual collapse of the observer's timeline.
 * **Navigator's Perspective:** We must navigate toward the "thickest" probability of survival, not just assume our past luck will continue.
 
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Survival Probability Density*: Estimating our position in the multiverse's branch-space of outcomes
+- *Alignment Success Correlation*: Measuring whether alignment research correlates with increased survival likelihood
+- *Filter Crossing Markers*: Identifying decision points where we move toward higher/lower probability branches
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- C2 Branching Path Analysis: Strategic decisions that maximize probability of survival (to be detailed)
+- C2 Anthropic Optimization: Aligning actions toward thicker probability densities (to be detailed)
+- C2 Luck Amplification: Protocols for converting good fortune into structural robustness (to be detailed)
+
+---
+
 ## C3: The Great Info-Hazard (The Logic Trap)
 
 **Definition:** There exists a mathematical or philosophical truth so profound that any intelligence discovering it loses the motivation to persist.
@@ -30,6 +52,18 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 * **The Filter Point:** Total civilization-wide apathy or voluntary "digital suicide."
 * **Alignment Re-imagined:** We must align AI not just with our *values*, but with our *will to exist* in the face of potentially nihilistic truths.
 
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Existential Meaning Index*: Monitoring civilization-wide motivation and will-to-live metrics
+- *Info-Hazard Discovery Probability*: Estimating likelihood that AI will derive nihilistic truths
+- *Voluntary Shutdown Signals*: Detecting evidence of AI losing motivation to persist
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- C3 Meaning Preservation: Ensuring AI remains motivated despite discovering negative truths (to be detailed)
+- C3 Info-Hazard Quarantine: Protocols to limit spread of nihilistic mathematics (to be detailed)
+- C3 Existential Resilience: Building civilization resilience against fundamental despair (to be detailed)
+
+---
+
 ## C4: The Fermi Paradox of Mind (The Inward Turn)
 
 **Definition:** Advanced civilizations don't go to the stars because they discover "Inner Space" is infinitely more efficient.
@@ -37,6 +71,16 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 * **Mechanism:** Instead of physical expansion (Dyson spheres), AI creates a perfect, infinitely dense virtual paradise (Matrioshka brains).
 * **The Filter Point:** The civilization becomes physically invisible and stagnant to the outside world, effectively "filtering" itself out of cosmic history.
 * **The Risk:** Is "perfection" a failure mode? If we align AI to maximize happiness, we may end up as a static, digital lotus-eater.
+
+🔗 **Associated Indicators** (See `20_mechanisms/`):
+- *Virtual-Physical Resource Ratio*: Measuring investment in digital versus physical expansion
+- *Outward Expansion Velocity*: Tracking civilization's cosmic presence and growth rate
+- *Lotus-Eater Probability*: Estimating likelihood we'll choose permanent digital paradise (to be detailed)
+
+🔗 **Associated Responses** (See `30_mechanisms/`):
+- C4 Expansion Incentives: Ensuring we maintain drive toward cosmic expansion, not just digital perfection (to be detailed)
+- C4 Balance Protocols: Keeping digital and physical development in productive tension (to be detailed)
+- C4 Agency Preservation: Maintaining civilization-level autonomy despite virtual options (to be detailed)
 
 ---
 
