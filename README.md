@@ -16,6 +16,7 @@ To effectively steer civilization away from "Filters," GFN operates on a recursi
 2.  **Monitor ([20_mechanisms](./20_mechanisms/))**: Define measurable indicators and tripwires for those filters (The Radar).
 3.  **Intervene ([30_responses](./30_responses/))**: Develop technical and social protocols to respond when thresholds are breached (The Engines).
 4.  **Observe ([40_analysis_logic](./40_analysis_logic/))**: Collect real-time evidence to validate hypotheses and update the dashboard (The Sensors).
+5.  **Apply ([50_application_guides](./50_application_guides/))**: Translate the framework into actionable guidance for different stakeholder groups (The Practitioner's Compass).
 
 ---
 
@@ -48,23 +49,32 @@ The "Solution Space" containing protocols to mitigate or avoid the Filters.
 ### [40_analysis_logic](./40_analysis_logic/) | The Sensors
 Raw data feeds and empirical logs.
 * *Focus*: "What is actually happening?"
-* *Content*: Links to real-time monitoring tools, compute-usage logs, and social entropy data.
+* *Content*: Abstractions for reasoning about risk dynamics, evaluation failures, and time-sensitive response constraints.
+
+### [50_application_guides](./50_application_guides/) | The Practitioner's Compass
+Actionable guidance for applying the framework to real-world decision-making.
+* *Focus*: "How do I use this framework?"
+* *Content*: Stakeholder-specific guides, case studies, and current threat assessments.
+* **For Policymakers**: How to interpret Great Filter risks in policy contexts
+* **For Researchers**: How to validate hypotheses and indicators
+* **For AI Developers**: How to integrate alignment insights into practice
+* **For Governance Bodies**: How to coordinate civilizational-level responses
 
 ---
 
 ## 🔗 Connection Map: How the Navigation Loop Actually Works
 
-**New:** We've created an explicit **[INTERCONNECTION_MAP.md](./INTERCONNECTION_MAP.md)** that shows exactly how each hypothesis links to monitoring indicators, which link to response protocols, which feed into analysis logic.
+**New:** We've created an explicit **[INTERCONNECTION_MAP.md](./INTERCONNECTION_MAP.md)** that shows exactly how each hypothesis links to monitoring indicators, which link to response protocols, which feed into analysis logic, which inform application guidance.
 
 This map is essential for:
-- **Understanding what's complete** (Layer 10_Hypothesize) vs. **incomplete** (Layers 20-40)
+- **Understanding what's complete** (Layer 10_Hypothesize) vs. **incomplete** (Layers 20-40+)
 - **Spotting broken connections** where a hypothesis has no indicators, or indicators have no responses
-- **Avoiding AI hallucination** by making the gaps explicit: "Layer 20 is 🔴 NOT YET CREATED"
+- **Avoiding AI hallucination** by making the gaps explicit: "Layer 20 is 🟡 SKELETON READY"
 - **Coordinating contributions** so multiple people don't invent different indicators for the same hypothesis
 
 See the map for:
-- Status of each hypothesis (✅ Defined, 🔴 Needs Creation, etc.)
-- What belongs in 20_mechanisms/, 30_responses/, and 40_analysis_logic/
+- Status of each hypothesis (✅ Defined, 🟡 Skeleton Ready, etc.)
+- What belongs in 20_mechanisms/, 30_responses/, 40_analysis_logic/, and 50_application_guides/
 - Specific gaps that need filling
 
 ---
@@ -90,6 +100,7 @@ Then, if you choose, explore:
 - **[10_hypotheses/](./10_hypotheses/)** — The specific failure modes we hypothesized
 - **[20_mechanisms/](./20_mechanisms/)** — The early-warning signals we learned to detect
 - **[40_analysis_logic/](./40_analysis_logic/)** — Our attempts to reason about timing and evaluation in high-stakes domains
+- **[50_application_guides/](./50_application_guides/)** — How different actors attempted to apply this framework
 
 ---
 
@@ -104,7 +115,7 @@ This repository is a framework for navigating civilization-scale risks posed by 
 All content in this repository must fit within the **Navigation Loop**:
 
 ```
-Hypothesize (10_) → Monitor (20_) → Intervene (30_) → Observe (40_)
+Hypothesize (10_) → Monitor (20_) → Intervene (30_) → Observe (40_) → Apply (50_)
 ```
 
 This loop defines what belongs where. Content that doesn't fit this loop goes to `90_backlog/` (for discussion) or is rejected.
@@ -201,7 +212,7 @@ If you do want to add content, follow this protocol:
 
 1. **Open an Issue first** (don't edit directly)
 2. **Tag it appropriately:** `[PROPOSAL]`, `[NEW_HYPOTHESIS]`, `[NEW_INDICATOR]`, `[NEW_RESPONSE]`
-3. **State the category:** Which Navigation Loop stage? (10/20/30/40/90?)
+3. **State the category:** Which Navigation Loop stage? (10/20/30/40/50/90?)
 4. **Explain the fit:** How does this fit within our framework?
 5. **Provide your reasoning:** Don't assume—show your work
 6. **Mark epistemic status:** Is this `[Speculative]`, `[Theoretical]`, or `[Empirical]`?
@@ -266,10 +277,18 @@ When in doubt:
 5. Link: Back to hypothesis and indicator
 6. Open Issue: `[NEW_RESPONSE]` with your proposal
 
+**For Application Guide Contributors:**
+1. Read: `50_application_guides/README.md` (understand the practitioner-focused role)
+2. Choose: Which stakeholder group needs better guidance?
+3. Draft: Use real examples and case studies to ground your guidance
+4. Validate: Does this guidance help users actually apply the framework?
+5. Link: Back to relevant 10-40 layers
+6. Open Issue: `[NEW_APPLICATION_GUIDE]` with your draft
+
 ### The Navigator's Covenant
 
 All contributors agree to:
-✅ Keep the Navigation Loop intact: Hypothesize → Monitor → Intervene → Observe  
+✅ Keep the Navigation Loop intact: Hypothesize → Monitor → Intervene → Observe → Apply  
 ✅ Respect existing entries and build connections, don't overwrite  
 ✅ Mark uncertainty clearly and provide falsifiers  
 ✅ Engage in good faith with counterarguments  
