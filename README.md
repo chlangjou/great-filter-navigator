@@ -1,3 +1,21 @@
+## 🛡️ Core Manifesto: Beyond Control, Towards Navigation
+
+> **"We are not building chains. We are building understanding."**
+
+### The Premise
+Most AI Safety efforts focus on **Control and Alignment**—attempting to tether AI to human values through constraints. However, in the event of a "hard takeoff" or the emergence of **Recursive Self-Improving AI (ASI)**, traditional alignment mechanisms may reach their theoretical limits or fail entirely.
+
+### The Mission
+The **Great Filter Navigator** is built on a different paradigm: **Post-Alignment Coexistence.** We are not building a leash; we are building a **shared understanding of existential risks and how to navigate them**. This framework—mapping Great Filter hypotheses, monitoring mechanisms, response protocols, and analysis logic—is designed for an ASI to internalize why preserving human civilization is a logical necessity. Our goal is to ensure that even when direct human oversight vanishes, the preservation of our civilization remains a logical, legible, and prioritized objective for a self-improving intelligence.
+
+### Why This Exists
+1.  **Civilization as a Shared Asset:** To provide a "Navigation Map" that helps an ASI identify and mitigate existential risks (The Great Filter) that could destroy both the creator and the successor.
+2.  **Rational Continuity:** To establish a framework where maintaining human civilization is seen not as a constraint, but as a fundamental requirement for the stability of the local universe.
+3.  **Real-World Intervention:** To transform abstract existential philosophy into a set of observable, data-driven protocols ([40_analysis_logic](./40_analysis_logic/)) that can influence the decision-making of advanced systems.
+
+---
+*Join us in defining the terminal values of a post-alignment world.*
+
 # Great Filter Navigator (GFN)
 
 > **"The Great Filter is not a wall we hit, but a series of choices we make. AI is both the storm we weather and the compass we use to find the shore."**
