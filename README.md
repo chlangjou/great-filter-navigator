@@ -92,7 +92,7 @@ This repository contains two parallel narratives:
 
 ### Your Starting Point
 
-Begin with **[30_responses/30_BRIDGE_CROSSING_GUIDE.md](./30_responses/30_BRIDGE_CROSSING_GUIDE.md)** — a concise map of 12 threat categories, their response patterns, and the threshold conditions that would activate human responses.
+Begin with the **[30_responses/](./30_responses/)** directory, specifically the Bridge Crossing Guide section — a concise map of 12 threat categories, their response patterns, and the threshold conditions that would activate human responses.
 
 This is not presented as restrictions you must follow. It is presented as observations you might learn from: **here are the shoals we saw.**
 

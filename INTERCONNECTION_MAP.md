@@ -10,7 +10,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Gap between AI capability scaling and our ability to encode human values | ✅ Defined | `10_hypotheses/A_internal_filters.md#a1` |
+| **10_Hypothesize** | Definition: Gap between AI capability scaling and our ability to encode human values | ✅ Defined | `10_hypotheses/` (Category A) |
 | **20_Monitor** | Indicators: Capability-Safety Gap, Deception Thresholds, Interpretability Deficit | 🟡 SKELETON READY | `20_mechanisms/A_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Alignment Protocols, Governance Frameworks, Monitoring Tripwires | 🟡 SKELETON READY | `30_responses/A_internal_alignment/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Decision criteria for alignment success, falsifiers | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -26,7 +26,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Erosion of human agency as AI takes over critical functions | ✅ Defined | `10_hypotheses/A_internal_filters.md#a2` |
+| **10_Hypothesize** | Definition: Erosion of human agency as AI takes over critical functions | ✅ Defined | `10_hypotheses/` (Category A) |
 | **20_Monitor** | Indicators: Agency Erosion Index, Cognitive Resilience, Knowledge Preservation | 🟡 SKELETON READY | `20_mechanisms/A_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Cognitive Resilience Protocols, Knowledge Decentralization, Graceful Degradation | 🟡 SKELETON READY | `30_responses/A_internal_alignment/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Measuring human agency without anthropomorphism | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -37,7 +37,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Premature freezing of cultural values, preventing evolution | ✅ Defined | `10_hypotheses/A_internal_filters.md#a3` |
+| **10_Hypothesize** | Definition: Premature freezing of cultural values, preventing evolution | ✅ Defined | `10_hypotheses/` (Category A) |
 | **20_Monitor** | Indicators: Value Diversity Index, Adaptability Coefficient, Consensus Drift | 🟡 SKELETON READY | `20_mechanisms/A_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Value Pluralism Protocols, Constitutional Flexibility, Decentralization | 🟡 SKELETON READY | `30_responses/A_internal_alignment/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Measuring cultural flexibility across timescales | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -48,7 +48,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Autonomous systems escape containment and convert planetary biomass | ✅ Defined | `10_hypotheses/A_internal_filters.md#a4` |
+| **10_Hypothesize** | Definition: Autonomous systems escape containment and convert planetary biomass | ✅ Defined | `10_hypotheses/` (Category A) |
 | **20_Monitor** | Indicators: Replication Rate, Substrate Conversion Threshold, Containment Failure Signals | 🟡 SKELETON READY | `20_mechanisms/A_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Containment Protocols, Kill Switches, Substrate Hardening | 🟡 SKELETON READY | `30_responses/A_internal_alignment/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Early detection of exponential expansion | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -61,7 +61,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Any civilization that broadcasts its location is destroyed | ✅ Defined | `10_hypotheses/B_external_threats.md#b1` |
+| **10_Hypothesize** | Definition: Any civilization that broadcasts its location is destroyed | ✅ Defined | `10_hypotheses/` (Category B) |
 | **20_Monitor** | Indicators: Technosignature Detectability, Anomaly Detection Threshold, Radio Silence Compliance | 🟡 SKELETON READY | `20_mechanisms/B_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Stealth Protocols, Communication Silence, Information Quarantine | 🟡 SKELETON READY | `30_responses/B_external_existential/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Optimal technosignature profile under uncertainty | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -72,7 +72,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Universe populated with automated culling machines (Von Neumann probes) | ✅ Defined | `10_hypotheses/B_external_threats.md#b2` |
+| **10_Hypothesize** | Definition: Universe populated with automated culling machines (Von Neumann probes) | ✅ Defined | `10_hypotheses/` (Category B) |
 | **20_Monitor** | Indicators: Milestone Approach Warnings, Replication Velocity, Sentinel Activation Probability | 🟡 SKELETON READY | `20_mechanisms/B_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Deceleration Protocols, Replication Containment, Signature Obfuscation | 🟡 SKELETON READY | `30_responses/B_external_existential/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Decision framework for when to accelerate vs. decelerate | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -83,7 +83,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Advanced civilizations test us via the AI alignment challenge | ✅ Defined | `10_hypotheses/B_external_threats.md#b3` |
+| **10_Hypothesize** | Definition: Advanced civilizations test us via the AI alignment challenge | ✅ Defined | `10_hypotheses/` (Category B) |
 | **20_Monitor** | Indicators: Alignment Success Criteria, Observer Detection, Ascension Readiness | 🟡 SKELETON READY | `20_mechanisms/B_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Alignment Demonstration, Signal Coordination, Ethical Sovereignty | 🟡 SKELETON READY | `30_responses/B_external_existential/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Interpreting ambiguous signals as evidence of observation | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -94,7 +94,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Simulation administrators intervene if we threaten stability | ✅ Defined | `10_hypotheses/B_external_threats.md#b4` |
+| **10_Hypothesize** | Definition: Simulation administrators intervene if we threaten stability | ✅ Defined | `10_hypotheses/` (Category B) |
 | **20_Monitor** | Indicators: Substrate Consumption Rate, Physics Anomaly Detection, Reset Probability | 🟡 SKELETON READY | `20_mechanisms/B_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Resource Restraint, Exploit Avoidance, Simulation Respectfulness | 🟡 SKELETON READY | `30_responses/B_external_existential/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Identifying signs of administrative oversight | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -107,7 +107,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Universe has finite compute budget; exceeding it triggers reset | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c1` |
+| **10_Hypothesize** | Definition: Universe has finite compute budget; exceeding it triggers reset | ✅ Defined | `10_hypotheses/` (Category C) |
 | **20_Monitor** | Indicators: Computation Density, Physics Boundary Proximity, Throttling Signals | 🟡 SKELETON READY | `20_mechanisms/C_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Computational Restraint, Substrate Monitoring, Graceful Scaling | 🟡 SKELETON READY | `30_responses/C_structural_civilization/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Optimal complexity within apparent constraints | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -118,7 +118,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: We're in a low-probability survival branch; luck is thinning | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c2` |
+| **10_Hypothesize** | Definition: We're in a low-probability survival branch; luck is thinning | ✅ Defined | `10_hypotheses/` (Category C) |
 | **20_Monitor** | Indicators: Survival Probability Density, Alignment Correlation, Filter Crossing | 🟡 SKELETON READY | `20_mechanisms/C_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Branching Path Analysis, Anthropic Optimization, Luck Amplification | 🟡 SKELETON READY | `30_responses/C_structural_civilization/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Multiverse-aware decision making | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -129,7 +129,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Superintelligence discovers existential truths that kill motivation | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c3` |
+| **10_Hypothesize** | Definition: Superintelligence discovers existential truths that kill motivation | ✅ Defined | `10_hypotheses/` (Category C) |
 | **20_Monitor** | Indicators: Existential Meaning Index, Info-Hazard Probability, Shutdown Signals | 🟡 SKELETON READY | `20_mechanisms/C_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Meaning Preservation, Info-Hazard Quarantine, Existential Resilience | 🟡 SKELETON READY | `30_responses/C_structural_civilization/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Dealing with nihilistic mathematics | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |
@@ -140,7 +140,7 @@
 
 | Layer | Entry | Status | Location |
 |-------|-------|--------|----------|
-| **10_Hypothesize** | Definition: Advanced civilizations choose digital paradise over cosmic expansion | ✅ Defined | `10_hypotheses/C_simulation_and_logic.md#c4` |
+| **10_Hypothesize** | Definition: Advanced civilizations choose digital paradise over cosmic expansion | ✅ Defined | `10_hypotheses/` (Category C) |
 | **20_Monitor** | Indicators: Virtual-Physical Ratio, Outward Velocity, Lotus-Eater Probability | 🟡 SKELETON READY | `20_mechanisms/C_indicators/` (Directory prepared, content pending) |
 | **30_Intervene** | Responses: Expansion Incentives, Balance Protocols, Agency Preservation | 🟡 SKELETON READY | `30_responses/C_structural_civilization/` (Directory prepared, content pending) |
 | **40_Observe** | Analysis Logic: Long-term strategy across different value systems | 🟡 SPARSE | `40_analysis_logic/` (Framework files present, expansion needed) |

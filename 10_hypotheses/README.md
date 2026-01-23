@@ -12,19 +12,19 @@ This directory contains a structured catalog of hypotheses explaining the **Grea
 
 We categorize risks based on their origin and logical structure. Each category requires a different strategic response:
 
-### [📂 Category A: Internal Filters (Autogenic Risks)](./A_internal_filters.md)
+### Category A: Internal Filters (Autogenic Risks)
 **"The Enemy Within"**
 These are risks arising from our own technological and social evolution.
 * **Core Theme:** Can we control the power we create?
 * **Key Focus:** AI Alignment, biological engineering, and cultural stagnation.
 
-### [📂 Category B: External Threats (Exogenous Risks)](./B_external_threats.md)
+### Category B: External Threats (Exogenous Risks)
 **"The Dark Forest"**
 These are risks originating from the cosmic environment or other intelligence.
 * **Core Theme:** Are we alone, and is it safe to be loud?
 * **Key Focus:** Technosignatures, automated sentinels, and the Zoo Hypothesis.
 
-### [📂 Category C: Structural & Logical Hypotheses](./C_simulation_and_logic.md)
+### Category C: Structural & Logical Hypotheses
 **"The Rules of the Game"**
 These are risks inherent in the nature of reality and information theory.
 * **Core Theme:** Is reality itself a constraint?
