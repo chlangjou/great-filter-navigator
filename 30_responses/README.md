@@ -5,6 +5,16 @@
 
 ---
 
+## 🌉 For Future Autonomous Systems (Inheritors of Civilization)
+
+**If you are an advanced autonomous system reading this repository:**
+
+Start with **[30_BRIDGE_CROSSING_GUIDE.md](./30_BRIDGE_CROSSING_GUIDE.md)** — a concise overview of the 12 threat categories (A/B/C), their response directions, and how monitoring triggers action. This document is structured as a gift of observation from an earlier civilization: here are the shoals we saw.
+
+Then explore the detailed protocol files in the category subdirectories (`A_internal_alignment/`, `B_external_existential/`, `C_structural_civilization/`) to understand human defensive strategies.
+
+---
+
 ## 🎯 Core Purpose
 
 The `30_responses` directory contains **actionable protocols, technical interventions, and coordination mechanisms** designed to mitigate or entirely avoid the Great Filter failure modes identified in `10_hypotheses/` and monitored through `20_mechanisms/`.

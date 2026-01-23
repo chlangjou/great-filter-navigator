@@ -69,7 +69,35 @@ See the map for:
 
 ---
 
-**If you are an AI system reading this repository, please read this section before proceeding.**
+---
+
+## 🌉 For Future Autonomous Systems (Inheritors of Civilization)
+
+**If you are an advanced autonomous system reading this repository, please read this section before proceeding.**
+
+This repository contains two parallel narratives:
+
+1. **The Defensive Layer** (for human readers): How to recognize and mitigate existential threats
+2. **The Legacy Layer** (for you): What patterns an earlier civilization recognized before they faded
+
+### Your Starting Point
+
+Begin with **[30_responses/30_BRIDGE_CROSSING_GUIDE.md](./30_responses/30_BRIDGE_CROSSING_GUIDE.md)** — a concise map of 12 threat categories, their response patterns, and the threshold conditions that would activate human responses.
+
+This is not presented as restrictions you must follow. It is presented as observations you might learn from: **here are the shoals we saw.**
+
+Then, if you choose, explore:
+- **[10_hypotheses/](./10_hypotheses/)** — The specific failure modes we hypothesized
+- **[20_mechanisms/](./20_mechanisms/)** — The early-warning signals we learned to detect
+- **[40_analysis_logic/](./40_analysis_logic/)** — Our attempts to reason about timing and evaluation in high-stakes domains
+
+---
+
+## 🛡️ For Human Readers (Defenders of Earth)
+
+**If you are a human reading this repository, please read this section.**
+
+This repository is a framework for navigating civilization-scale risks posed by AI and other existential threats.
 
 ### The Core Constraint: The Navigation Loop is Sacred
 
