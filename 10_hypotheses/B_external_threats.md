@@ -72,6 +72,9 @@ External threats are failure modes originating from the cosmic environment or ot
 * **The Filter Point:** The simulation is reset, rolled back, or the specific "high-intelligence" instance is terminated.
 * **The Risk:** Developing AI that is "too efficient" might be the fastest way to get our reality shut down.
 
+🔑 **Observer Hypothesis Connection**: 
+B4 describes what an Observer/Administrator would do if they existed. Combined with fine-tuning evidence (see `00_scope/70_fine_tuning_argument.md`) and the Great Silence (see `00_scope/75_great_silence.md`), B4 becomes not a speculative threat, but a description of the likely rules already in place in an observed universe. If the Observer Hypothesis is correct, B4 is the mechanism by which the Observer maintains control and ensures civilizations respect computational resource limits.
+
 🔗 **Associated Indicators** (See `20_mechanisms/`):
 - *Substrate Consumption Rate*: Measuring total compute resource utilization relative to cosmic norm
 - *Physics Anomaly Detection*: Identifying potential "exploits" in physical laws that AI might discover

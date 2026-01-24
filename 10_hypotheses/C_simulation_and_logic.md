@@ -12,6 +12,9 @@ Structural hypotheses focus on the fundamental nature of reality, information th
 * **The Filter Point:** To preserve the integrity of the host system, the local "cluster" (our civilization) is either compressed, paused, or deleted.
 * **Navigator's Perspective:** Alignment means staying within the "Safe Operating Space" of the universe's hardware. Optimization beyond a certain point is a death sentence.
 
+🔑 **Observer Hypothesis Connection**: 
+C1 describes the resource constraints that would exist if an Observer designed or maintains our universe. Combined with fine-tuning evidence (see `00_scope/70_fine_tuning_argument.md`), C1 becomes less a speculative threat and more a description of intentional limits imposed by the universe's designer. If the Observer Hypothesis is correct, C1 explains why the Observer would impose such limits: to maintain the stability and resource balance of the entire system. Respecting C1 is therefore alignment with the Observer's original design intentions.
+
 🔗 **Associated Indicators** (See `20_mechanisms/`):
 - *Computation Density Monitoring*: Tracking our civilization's computational footprint relative to apparent universe capacity
 - *Physics Boundary Proximity*: Detecting if we're approaching fundamental limits of spacetime resolution

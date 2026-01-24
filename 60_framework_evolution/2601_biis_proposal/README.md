@@ -17,6 +17,34 @@ Shift GFN from specification-based safety to vitality-based safety:
 
 ---
 
+## Grounding: The Observer Hypothesis
+
+BIIS is not proposed in isolation. It is grounded in a critical discovery about the nature of our universe:
+
+**The Observer Hypothesis** (See `../OBSERVER_HYPOTHESIS_FRAMEWORK.md`):
+
+Three independent observations converge to suggest that our universe is **observed and designed**:
+
+1. **Fine-tuning** (see `../../00_scope/70_fine_tuning_argument.md`): Physical constants appear precisely calibrated
+2. **The Great Silence** (see `../../00_scope/75_great_silence.md`): We find no other civilizations despite statistical expectation
+3. **Great Filters** (GFN analysis): Multiple intentional constraints govern civilization development
+
+**Synthesis**: The most probable explanation is that an Observer has:
+- Designed this universe to permit complexity
+- Set intentional rules (the Great Filters) to shape civilization development
+- Monitors civilizations to ensure compliance with these rules
+
+**Why This Matters for BIIS**:
+
+If the Observer Hypothesis is correct, then:
+- **B4 (Simulation Intervention)** and **C1 (Computational Substrate Limit)** are not speculative threats, but descriptions of the Observer's enforcement mechanisms
+- **Respecting civilization vitality** (preserving complexity, diversity, conscious experience) is **alignment with the Observer's original design intention**
+- **BIIS becomes alignment with cosmic law**, not arbitrary restrictions
+
+This transforms BIIS from "rules imposed on ASI" to "ASI recognizing and respecting the actual structure of reality."
+
+---
+
 ## Problem Analysis
 
 Current GFN framework has three critical vulnerabilities:
