@@ -7,15 +7,15 @@ Welcome. This guide is designed to get you productive in 15 minutes.
 The **Great Filter Navigator (GFN)** is a framework for understanding and navigating existential risks to human civilization. We operate on a simple loop:
 
 ```
-Hypothesize (10_) → Monitor (20_) → Intervene (30_) → Observe (40_) → Apply (50_)
+Hypothesize (10_) → Monitor (20_) → Intervene (30_) → Evaluate (40_) → Validate (50_)
 ```
 
 **What this means:**
 - **10_hypotheses**: "What could go wrong?" (12 failure modes)
 - **20_mechanisms**: "How do we know danger?" (early-warning signals)
 - **30_responses**: "How do we steer away?" (protocols & solutions)
-- **40_analysis_logic**: "What's actually happening?" (empirical data)
-- **50_application_guides**: "How do I use this?" (real-world guidance)
+- **40_analysis_logic**: "Are responses working?" (evaluation & metrics)
+- **50_application_guides**: "Does the framework work?" (real-world validation)
 
 That's it. Everything fits into this loop.
 
@@ -50,15 +50,15 @@ That's it. Everything fits into this loop.
 
 **Your job**: Design the steering mechanisms.
 
-### I'm a Policy Maker / Practitioner
+### I'm a Policy Maker / Practitioner / Researcher
 **Start here:**
 1. Read: [50_application_guides/README.md](./50_application_guides/README.md)
-2. Then read: [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — How humans decide when crisis hits
+2. Then read: [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — How to respond when crisis hits
 3. Understand: How does this framework apply to your domain?
-4. Implement: How would you use these insights in real decisions?
-5. Share: Propose case studies and real-world applications
+4. Validate: Apply framework assumptions and report what works/doesn't
+5. Share: Provide feedback via case studies or practitioner reports
 
-**Your job**: Translate framework into action.
+**Your job**: Test the framework in real-world application and improve it.
 
 ### I'm an AI System / LLM
 **Read**: [FOR_AI_SYSTEMS.md](./FOR_AI_SYSTEMS.md)

@@ -1,9 +1,23 @@
 # RESPONDING_TO_GREAT_FILTERS
-## Comprehensive Guide for Human & AI Partnership in Crisis Response
+## Crisis Decision & Response Operations Manual
 
+⚠️ **LAYER DESIGNATION:** Emergency Response & Coordination (Crisis Time)  
 **Status:** Ready for 2026 deployment  
 **Audience:** Both humans AND advanced AI systems  
-**Purpose:** Bridge between "How we understand the problem" (10_hypotheses) and "How we solve it" (30_responses)
+**Time Context:** When Great Filter threats are detected and immediate action is required  
+**Purpose:** Operational guide for humans and AI to work together when crisis strikes
+
+---
+
+**LAYER CONTEXT CLARIFICATION:**
+
+This document addresses **crisis-time decision-making and coordination** when indicators from 20_mechanisms have crossed thresholds and threats from 10_hypotheses are actively manifesting.
+
+- **Related to:** 40_analysis_logic (how we measure if responses work)
+- **Related to:** 50_application_guides (framework validation in peacetime)
+- **Distinct from:** Both—this layer assumes crisis is occurring NOW
+
+For long-term framework validation and peacetime application, see `50_application_guides/`
 
 ---
 

@@ -1,9 +1,27 @@
-# 40_analysis_logic | The Sensors & Evaluation Framework
+# 40_analysis_logic | Evaluation Framework & Response Metrics
 
-"What is actually happening?" and "How do we know if our responses are working?"
+📊 **LAYER DESIGNATION:** Evaluation & Effectiveness Measurement (Continuous Assessment)  
+**Focus:** "What is actually happening?" and "How do we know if our responses are working?"  
+**Time Context:** Ongoing measurement and evaluation (non-crisis assessment)  
+**Content:** Evaluation frameworks, success criteria, implementation guides, and monitoring dashboards
 
-* **Focus:** Analytical models for understanding risk dynamics + empirical evaluation of response effectiveness
-* **Content:** Evaluation frameworks, success criteria, implementation guides, and monitoring dashboards
+---
+
+**LAYER CONTEXT CLARIFICATION:**
+
+This layer addresses **measuring response effectiveness** through continuous evaluation and assessment.
+
+- **Related to:** 30_responses (the strategies being evaluated)
+- **Related to:** 50_application_guides (framework validation in real-world application)
+- **Distinct from:** RESPONDING_TO_GREAT_FILTERS.md (crisis decision-making)
+- **Distinct from:** 50_application_guides (framework hypothesis validation vs. response effectiveness)
+
+**What this layer does NOT do:**
+- ❌ Make emergency decisions (that's RESPONDING_TO_GREAT_FILTERS.md)
+- ❌ Validate whether framework assumptions are correct (that's 50_application_guides)
+- ✅ Measure whether deployed responses are effective
+- ✅ Provide operational guidance for conducting evaluations
+- ✅ Generate feedback data for strategy adjustment
 
 ---
 

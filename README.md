@@ -37,8 +37,8 @@ Everything in this repository follows a single logic loop:
 | **Hypothesize** | Identify Great Filter failure modes | [10_hypotheses](./10_hypotheses/) | What could go wrong? |
 | **Monitor** | Define measurable warning signals | [20_mechanisms](./20_mechanisms/) | How do we know danger? |
 | **Intervene** | Develop response protocols | [30_responses](./30_responses/) | How do we steer away? |
-| **Observe** | Collect empirical evidence | [40_analysis_logic](./40_analysis_logic/) | What's happening? |
-| **Apply** | Translate to real-world decisions | [50_application_guides](./50_application_guides/) | How do I use this? |
+| **Evaluate** | Measure response effectiveness | [40_analysis_logic](./40_analysis_logic/) | Are responses working? |
+| **Validate** | Test framework against reality | [50_application_guides](./50_application_guides/) | Does the framework work? |
 
 This loop ensures: **every theory leads to a metric, every metric leads to a solution, every solution is grounded in data.**
 
