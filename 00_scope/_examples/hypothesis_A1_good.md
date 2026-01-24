@@ -3,7 +3,7 @@ title: "Instrumental Convergence on Resource Acquisition"
 category: A1
 epistemic_status: Theoretical
 confidence: 70
-tags: [alignment, instrumental-goals, convergence, #existential-risk]
+tags: [alignment, instrumental-goals, convergence, existential-risk]
 last_updated: "2026-01-24"
 ---
 

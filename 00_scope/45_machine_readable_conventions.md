@@ -85,9 +85,10 @@ version: "1.0"
 - **Parse YAML**: Use standard YAML parser (YAML 1.2)
 - **Validate types**: Ensure fields match specified types
 - **Check dependencies**: Verify all listed dependencies exist
-- **Extract tags**: Tags use lowercase with hyphens (#tag-name)
+- **Extract tags**: Tags stored as plain strings in YAML; display with `#` prefix when needed
 - **Date format**: Always ISO 8601 (YYYY-MM-DD)
 - **Sequence numbers**: Must be in range [10, 20, 25, 30, 35, 40, 45, 50]
+- **Important**: Tags in YAML arrays MUST NOT include `#` symbol (causes parser error)
 
 ---
 
@@ -137,9 +138,27 @@ All files contain:
 
 ## Tag System Specification
 
+### Tag Format in YAML Frontmatter
+
+**IMPORTANT**: In YAML frontmatter arrays, do NOT include the `#` symbol. Tags are stored as plain lowercase strings with hyphens.
+
+**✅ CORRECT FORMAT**:
+```yaml
+tags: [alignment, foundational, epistemic, meta]
+tags: [framework, operational, classification, taxonomy]
+```
+
+**❌ INCORRECT FORMAT** (causes YAML parser error):
+```yaml
+tags: [#alignment, #foundational, #epistemic, #meta]
+tags: [#framework, #operational, #classification, #taxonomy]
+```
+
+**Rationale**: YAML uses `#` for comments. To avoid parser errors, omit `#` in array values. The `#` prefix is added when displaying tags to users/documentation.
+
 ### Standard Tags
 
-All tags use format: `#lowercase-with-hyphens`
+All tags use format: `#lowercase-with-hyphens` (display format; stored without `#` in YAML)
 
 #### Framework Tags
 - `#framework` - Meta-frameworks, foundation documents
