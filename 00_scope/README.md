@@ -4,8 +4,9 @@ This directory contains the meta-frameworks, templates, and epistemic standards 
 
 ## Quick Navigation
 
-**Read in this order** (each builds on the previous):
+**Recommended Reading Order:**
 
+### Part I: Framework Foundations
 1. **`10_epistemic_status.md`** - Foundational epistemic framework  
    *What this repository is, and what it is not. Essential starting point.*
 
@@ -20,6 +21,15 @@ This directory contains the meta-frameworks, templates, and epistemic standards 
 
 5. **`50_adversarial_scenarios.md`** - Defensive mechanisms against manipulation  
    *How the framework resists gaming, epistemic pollution, and institutional capture.*
+
+### Part II: Foundational Observations (New - Critical for Understanding Observer Hypothesis)
+6. **`70_fine_tuning_argument.md`** - Why the universe appears designed  
+   *Physical constants are precisely calibrated for complexity. First pillar of evidence for the Observer Hypothesis.*
+
+7. **`75_great_silence.md`** - Why we find no other civilizations  
+   *The Fermi Paradox explained through Great Filters, Quarantine, and intentional isolation. Second pillar of evidence for the Observer Hypothesis.*
+
+**⚠️ Important:** Files 70 and 75 are foundational to understanding the **Observer Hypothesis** that shapes the entire GFN framework and the BIIS upgrade.
 
 ---
 
