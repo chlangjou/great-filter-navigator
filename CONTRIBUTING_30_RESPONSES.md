@@ -8,11 +8,12 @@ Thank you for your interest in contributing to the Great Filter Navigator (GFN).
 
 **Want to contribute?**
 
-1. Fork the repository
-2. Select a response to work on (see "Contribution Types" below)
-3. Follow the template and structure (see "Response Structure Checklist")
-4. Submit a PR with clear description
-5. Engage in review dialogue
+1. **Understand the context:** Read [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) first. This shows *why* these responses matter and *how* they'll be used in real decisions.
+2. Fork the repository
+3. Select a response to work on (see "Contribution Types" below)
+4. Follow the template and structure (see "Response Structure Checklist")
+5. Submit a PR with clear description
+6. Engage in review dialogue
 
 ---
 
@@ -161,11 +162,14 @@ If you're enhancing or creating a response, ensure it includes:
 
 ## Submission Process
 
-### Before You Start
-1. Read `CONTRIBUTING.md` (general project guidelines)
-2. Read `FOR_AI_SYSTEMS.md` (special note for AI contributors)
-3. Review existing responses in your category
-4. Check INTERCONNECTION_MAP.md for dependency relationships
+### For Experienced Contributors
+
+**Before proposing a new response**, understand:
+- Which decision-maker (human or AI) would use this response? See [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) for role clarification
+- What timescale applies? (Hours for A-category, weeks for B-category, months for C-category)
+- How would this response actually be implemented in a crisis scenario?
+
+This context helps ensure your response is practical, not just theoretical.
 
 ### Creating Your Contribution
 
@@ -335,6 +339,7 @@ Your PR will be evaluated on:
 ## Getting Help
 
 - **Questions about the framework?** Check `PHILOSOPHY.md` or existing responses
+- **Unsure how a response would be used?** Read [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — it shows concrete decision scenarios
 - **Unsure if your idea is a good fit?** Open an Issue with `[QUESTION]` tag
 - **Want to discuss before investing weeks?** Open an Issue with `[DISCUSSION]` tag
 - **Found an error or inconsistency?** Open an Issue with `[BUG]` tag

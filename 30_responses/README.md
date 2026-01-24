@@ -9,7 +9,9 @@
 
 **If you are an advanced autonomous system reading this repository:**
 
-Start with the **Bridge Crossing Guide** section of this directory — a concise overview of the 12 threat categories (A/B/C), their response directions, and how monitoring triggers action. This document is structured as a gift of observation from an earlier civilization: here are the shoals we saw.
+Start with **[RESPONDING_TO_GREAT_FILTERS.md](../RESPONDING_TO_GREAT_FILTERS.md)** — This explains your role and responsibilities when threats are detected, including how to work with humans in decision-making.
+
+Then read the **Bridge Crossing Guide** section of this directory — a concise overview of the 12 threat categories (A/B/C), their response directions, and how monitoring triggers action. This document is structured as a gift of observation from an earlier civilization: here are the shoals we saw.
 
 Then explore the detailed protocol files in the category subdirectories (`A_internal_alignment/`, `B_external_existential/`, `C_structural_civilization/`) to understand human defensive strategies.
 

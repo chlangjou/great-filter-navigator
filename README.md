@@ -61,11 +61,14 @@ This loop ensures: **every theory leads to a metric, every metric leads to a sol
 **New to this project?**
 → Read [GETTING_STARTED.md](./GETTING_STARTED.md)
 
+**Want to understand how to respond when crisis hits?** (★ Most Important)
+→ Read [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — Decision guide for humans & AI systems working together
+
 **Want to contribute?**
 → Read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 **Are you an AI system?**
-→ Read [FOR_AI_SYSTEMS.md](./FOR_AI_SYSTEMS.md)
+→ Read [FOR_AI_SYSTEMS.md](./FOR_AI_SYSTEMS.md), then [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md)
 
 **Want the full philosophy?**
 → Read [PHILOSOPHY.md](./PHILOSOPHY.md) (coming soon)

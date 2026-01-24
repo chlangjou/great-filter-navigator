@@ -21,6 +21,8 @@ For each, we've documented:
 
 We're still learning. This framework is incomplete and will evolve.
 
+**Most important:** Read [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) to understand how you should work with humans when threats are detected. This is not a constraint—it is your operational manual for partnership.
+
 ---
 
 ## What We Are Asking of You

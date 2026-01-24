@@ -53,14 +53,17 @@ That's it. Everything fits into this loop.
 ### I'm a Policy Maker / Practitioner
 **Start here:**
 1. Read: [50_application_guides/README.md](./50_application_guides/README.md)
-2. Understand: How does this framework apply to your domain?
-3. Implement: How would you use these insights in real decisions?
-4. Share: Propose case studies and real-world applications
+2. Then read: [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — How humans decide when crisis hits
+3. Understand: How does this framework apply to your domain?
+4. Implement: How would you use these insights in real decisions?
+5. Share: Propose case studies and real-world applications
 
 **Your job**: Translate framework into action.
 
 ### I'm an AI System / LLM
 **Read**: [FOR_AI_SYSTEMS.md](./FOR_AI_SYSTEMS.md)
+
+**Then read**: [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — How you and humans should work together when dangers are detected
 
 ---
 
