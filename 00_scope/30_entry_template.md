@@ -1,3 +1,23 @@
+---
+title: "Entry Template and Contribution Guide"
+type: "template"
+layer: "00_scope"
+sequence: 30
+purpose: "Provide a structured template for all risk entries, response patterns, and hypotheses"
+audience: "Active contributors to risk hypotheses and response mechanisms"
+epistemic_status: Consensus
+confidence: 90
+tags: [template, operational, contribution-guide, structure]
+dependencies: ["10_epistemic_status.md", "20_taxonomy.md"]
+related_documents:
+  - prerequisites: ["10_epistemic_status.md", "20_taxonomy.md"]
+  - validated_by: "40_what_would_change_our_minds.md"
+  - protected_by: "50_adversarial_scenarios.md"
+  - examples: "_examples/"
+last_updated: "2026-01-24"
+version: "1.0"
+---
+
 ## Document Summary
 
 **Purpose**: Provide a structured template for all risk entries, response patterns, and hypotheses in the GFN.  
@@ -267,6 +287,99 @@ Minimum fields:
 
 ---
 
+## Validation Rules (For Machines)
+
+This section specifies how automated systems should validate entries. Machine validation helps catch errors before submission.
+
+### Required Fields and Validation
+
+| Field | Type | Required | Min Length | Max Length | Validation |
+|-------|------|----------|-----------|-----------|-----------|
+| Title | String | ✅ Yes | 5 | 150 | Must be unique within category |
+| Category | Enum | ✅ Yes | - | - | Must be A1-A3, B1-B3, or C1-C2 |
+| Epistemic Status | Enum | ✅ Yes | - | - | Must be [Speculative], [Theoretical], [Empirical], or [Consensus] |
+| Confidence | Number | ✅ Yes | 0 | 100 | Must be 0-100% or Low/Moderate/High |
+| Claim | Text | ✅ Yes | 50 | 1000 | Must be clear, testable statement |
+| Mechanism | Text | ✅ Yes | 300 | 2000 | Must explain causal chain |
+| Predictions | List | ✅ Yes | 2 | 10 | Each prediction must have observable metric |
+| Counterarguments | Text | ✅ Yes | 100 | 1000 | Must present real objections |
+| Failure Modes | Text | ⭕ Recommended | 100 | 800 | Should document failure scenarios |
+| What Would Change My Mind | Text | 🔴 **MANDATORY** | 150 | 800 | **Cannot be empty or vague** |
+| References | List | ✅ Yes | 5 | 50 | Must have 5+ citations minimum |
+
+### Validation Logic
+
+**Check 1: Required Sections Present**
+```
+IF missing any [MANDATORY] section:
+  → ERROR: "Missing mandatory section [Section Name]"
+```
+
+**Check 2: Minimum Content Length**
+```
+FOR EACH required section:
+  IF word_count < minimum:
+    → WARNING: "Section [Name] too brief"
+  IF word_count > maximum:
+    → WARNING: "Section [Name] too long"
+```
+
+**Check 3: Falsifiability Check**
+```
+IF "What Would Change My Mind" section:
+  IF contains no conditional statements:
+    → ERROR: "Falsifiability section must contain testable conditions"
+  IF contains vague language ("might", "could", "maybe" without specifics):
+    → WARNING: "Conditions may be too vague"
+  IF lists < 3 conditions:
+    → WARNING: "Consider adding more falsification criteria"
+ELSE:
+  → ERROR: "What Would Change My Mind section is MANDATORY"
+```
+
+**Check 4: Category Validation**
+```
+IF Category NOT in {A1, A2, A3, B1, B2, B3, C1, C2}:
+  → ERROR: "Invalid category [Category]"
+IF entry seems misclassified (keywords analysis):
+  → WARNING: "Category may be incorrect; consider [Alternative Category]"
+```
+
+**Check 5: Reference Count**
+```
+IF references < 5:
+  → ERROR: "Minimum 5 references required; found [Count]"
+IF references have no dates or authors:
+  → WARNING: "Some references incomplete"
+```
+
+**Check 6: Circular Logic Detection**
+```
+IF Claim contradicts Mechanism:
+  → ERROR: "Claim and Mechanism are contradictory"
+IF Failure Modes undermine Mechanism:
+  → WARNING: "Failure modes may invalidate mechanism"
+IF Counterarguments are not actually addressed:
+  → WARNING: "Counterarguments not adequately addressed"
+```
+
+**Check 7: Epistemic Calibration**
+```
+IF Confidence > 80% AND Epistemic Status = [Speculative]:
+  → WARNING: "Misalignment: confidence high but epistemic status speculative"
+IF Confidence < 40% AND no uncertainty section:
+  → WARNING: "Low confidence but no uncertainty explanation"
+```
+
+**Check 8: Tag Validation**
+```
+FOR EACH tag:
+  IF tag NOT in approved tag list:
+    → WARNING: "Tag [tag] not in standard list; consider [suggestions]"
+```
+
+---
+
 ## Checklist for Contributors
 
 Before submitting an entry:
@@ -274,15 +387,20 @@ Before submitting an entry:
 - [ ] Title is clear and searchable
 - [ ] Category is assigned from the A-B-C taxonomy
 - [ ] Epistemic status is stated explicitly
+- [ ] Confidence is stated as percentage or level
 - [ ] Mechanism is explained with causal chains, not just assertions
 - [ ] At least 2 observable predictions are listed
+- [ ] Each prediction has observable/testable metric
 - [ ] Counterarguments are presented (not strawmanned)
-- [ ] Uncertainty sources are explicit
+- [ ] Uncertainty sources are explicit (if confidence < 70%)
 - [ ] Failure modes are documented
 - [ ] Response patterns are linked or sketched
-- [ ] Falsifiers are stated (Section 9 is non-negotiable)
+- [ ] **What would change my mind section is present and specific** ✅ **NON-NEGOTIABLE**
+- [ ] Falsifiers are not vague ("something unexpected" ❌, "empirical evidence showing X" ✅)
 - [ ] References are provided (minimum 5)
 - [ ] No circular reasoning or unfalsifiable claims remain
+- [ ] Tags are from approved list (see `25_taxonomy_index.md`)
+- [ ] Entry has been read aloud or reviewed by someone else
 
 ---
 

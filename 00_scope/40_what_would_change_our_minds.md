@@ -1,3 +1,23 @@
+---
+title: "What Would Change Our Minds"
+type: "framework"
+layer: "00_scope"
+sequence: 40
+purpose: "Establish explicit falsifiability standards and conditions for revising claims"
+audience: "All contributors; essential reference for entry validation"
+epistemic_status: Consensus
+confidence: 95
+tags: [framework, falsifiability, corrigibility, meta]
+dependencies: ["10_epistemic_status.md"]
+related_documents:
+  - prerequisites: "10_epistemic_status.md"
+  - used_by: "30_entry_template.md"
+  - validates: ["10_hypotheses/", "20_mechanisms/"]
+  - see_also: "50_adversarial_scenarios.md"
+last_updated: "2026-01-24"
+version: "1.0"
+---
+
 ## Document Summary
 
 **Purpose**: Establish explicit falsifiability standards and conditions for revising claims across the GFN.  

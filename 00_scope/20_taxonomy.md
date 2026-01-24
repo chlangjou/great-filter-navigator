@@ -1,3 +1,23 @@
+---
+title: "Taxonomy and Classification Framework"
+type: "framework"
+layer: "00_scope"
+sequence: 20
+purpose: "Define categorization and classification logic for all GFN entries"
+audience: "Contributors, curators, and automated indexing systems"
+epistemic_status: Consensus
+confidence: 95
+tags: [framework, operational, classification, taxonomy]
+dependencies: ["10_epistemic_status.md"]
+related_documents:
+  - prerequisites: "10_epistemic_status.md"
+  - used_by: "30_entry_template.md"
+  - see_also: "40_what_would_change_our_minds.md"
+  - reference: ["10_hypotheses/", "20_mechanisms/"]
+last_updated: "2026-01-24"
+version: "1.0"
+---
+
 ## Document Summary
 
 **Purpose**: Define the categorization and classification logic for all entries in the Great Filter Navigator.  

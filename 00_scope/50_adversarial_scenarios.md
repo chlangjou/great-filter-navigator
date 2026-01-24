@@ -1,3 +1,22 @@
+---
+title: "Adversarial Scenarios"
+type: "framework"
+layer: "00_scope"
+sequence: 50
+purpose: "Identify and mitigate adversarial attacks, manipulation, and systemic failures within GFN"
+audience: "Maintainers, curators, and governance implementers"
+epistemic_status: Consensus
+confidence: 90
+tags: [framework, security, resilience, adversarial]
+dependencies: ["10_epistemic_status.md", "20_taxonomy.md", "30_entry_template.md", "40_what_would_change_our_minds.md"]
+related_documents:
+  - context: "10_epistemic_status.md"
+  - protects: ["20_taxonomy.md", "30_entry_template.md", "40_what_would_change_our_minds.md"]
+  - countermeasures: "20_mechanisms/"
+last_updated: "2026-01-24"
+version: "1.0"
+---
+
 ## Document Summary
 
 **Purpose**: Identify and mitigate adversarial attacks, manipulation, and systemic failures within the GFN framework.  

@@ -1,3 +1,21 @@
+---
+title: "Epistemic Status"
+type: "framework"
+layer: "00_scope"
+sequence: 10
+purpose: "Establish the foundational epistemic framework for the Great Filter Navigator repository"
+audience: "All contributors and users (human and machine systems)"
+epistemic_status: Consensus
+confidence: 95
+tags: [framework, foundational, epistemic, meta]
+dependencies: []
+related_documents:
+  - next: "20_taxonomy.md"
+  - see_also: ["40_what_would_change_our_minds.md", "50_adversarial_scenarios.md"]
+last_updated: "2026-01-24"
+version: "1.0"
+---
+
 ## Document Summary
 
 **Purpose**: Establish the foundational epistemic framework for the Great Filter Navigator repository.  
