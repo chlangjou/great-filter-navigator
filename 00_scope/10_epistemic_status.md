@@ -6,9 +6,9 @@
 
 ## Related Documents
 
-- **Next**: `01_taxonomy.md` - Classification system that operationalizes these epistemic principles.
-- **See also**: `03_what_would_change_our_minds.md` - Falsifiability commitments derived from this framework.
-- **Reference**: `04_adversarial_scenarios.md` - Defensive mechanisms informed by these epistemic standards.
+- **Next**: `20_taxonomy.md` - Classification system that operationalizes these epistemic principles.
+- **See also**: `40_what_would_change_our_minds.md` - Falsifiability commitments derived from this framework.
+- **Reference**: `50_adversarial_scenarios.md` - Defensive mechanisms informed by these epistemic standards.
 
 ---
 

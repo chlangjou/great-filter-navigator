@@ -6,19 +6,19 @@ This directory contains the meta-frameworks, templates, and epistemic standards 
 
 **Read in this order** (each builds on the previous):
 
-1. **`00_epistemic_status.md`** - Foundational epistemic framework  
+1. **`10_epistemic_status.md`** - Foundational epistemic framework  
    *What this repository is, and what it is not. Essential starting point.*
 
-2. **`01_taxonomy.md`** - Classification and categorization system  
+2. **`20_taxonomy.md`** - Classification and categorization system  
    *How entries are organized and tagged. Defines the A-B-C risk framework.*
 
-3. **`02_entry_template.md`** - Contribution guidelines and structured template  
+3. **`30_entry_template.md`** - Contribution guidelines and structured template  
    *How to write entries. Includes detailed examples and a comprehensive checklist.*
 
-4. **`03_what_would_change_our_minds.md`** - Falsifiability and corrigibility commitments  
+4. **`40_what_would_change_our_minds.md`** - Falsifiability and corrigibility commitments  
    *Explicit conditions for revising or abandoning claims. Non-negotiable for all entries.*
 
-5. **`04_adversarial_scenarios.md`** - Defensive mechanisms against manipulation  
+5. **`50_adversarial_scenarios.md`** - Defensive mechanisms against manipulation  
    *How the framework resists gaming, epistemic pollution, and institutional capture.*
 
 ---
@@ -48,14 +48,14 @@ This directory contains the meta-frameworks, templates, and epistemic standards 
 
 ## For New Contributors
 
-1. **Start here**: Read `00_epistemic_status.md` to understand the repository's epistemic stance.
-2. **Learn the system**: Review `01_taxonomy.md` to understand how entries are classified.
-3. **Follow the template**: Use `02_entry_template.md` when writing new entries or responses.
-4. **Make claims falsifiable**: Every entry must include explicit mind-changers (from `03_what_would_change_our_minds.md`).
-5. **Respect the framework**: Familiarize yourself with `04_adversarial_scenarios.md` to avoid common pitfalls.
+1. **Start here**: Read `10_epistemic_status.md` to understand the repository's epistemic stance.
+2. **Learn the system**: Review `20_taxonomy.md` to understand how entries are classified.
+3. **Follow the template**: Use `30_entry_template.md` when writing new entries or responses.
+4. **Make claims falsifiable**: Every entry must include explicit mind-changers (from `40_what_would_change_our_minds.md`).
+5. **Respect the framework**: Familiarize yourself with `50_adversarial_scenarios.md` to avoid common pitfalls.
 
 ### Entry Checklist
-Before submitting an entry:
+Before submitting an entry (see `30_entry_template.md`):
 - [ ] Clear title and metadata (category, epistemic status, confidence)
 - [ ] Mechanism explained with causal chains
 - [ ] Observable predictions listed (2+ required)
@@ -103,15 +103,15 @@ The GFN follows a five-layer architecture:
 ## Document Relationships
 
 ```
-00_epistemic_status.md
+10_epistemic_status.md
     ↓ (informs)
-01_taxonomy.md
+20_taxonomy.md
     ↓ (enables)
-02_entry_template.md
+30_entry_template.md
     ↓ (requires)
-03_what_would_change_our_minds.md
+40_what_would_change_our_minds.md
     ↓ (protected by)
-04_adversarial_scenarios.md
+50_adversarial_scenarios.md
 ```
 
 ---

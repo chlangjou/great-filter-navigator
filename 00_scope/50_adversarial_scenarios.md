@@ -6,8 +6,8 @@
 
 ## Related Documents
 
-- **Context**: `00_epistemic_status.md` - Epistemic standards that adversarial actors might exploit.
-- **Targets**: `01_taxonomy.md`, `02_entry_template.md`, `03_what_would_change_our_minds.md` - Core documents at risk.
+- **Context**: `10_epistemic_status.md` - Epistemic standards that adversarial actors might exploit.
+- **Targets**: `20_taxonomy.md`, `30_entry_template.md`, `40_what_would_change_our_minds.md` - Core documents at risk.
 - **Related**: `20_mechanisms/` - Contains institutional and technical countermeasures to these threats.
 
 ---

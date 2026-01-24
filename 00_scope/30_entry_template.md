@@ -6,10 +6,10 @@
 
 ## Related Documents
 
-- **Prerequisites**: `00_epistemic_status.md` - Epistemic commitments all entries must honor.
-- **Uses**: `01_taxonomy.md` - Classification tags required in each entry.
-- **Validated by**: `03_what_would_change_our_minds.md` - Each entry must include explicit falsifiers.
-- **Protected by**: `04_adversarial_scenarios.md` - Template design resists gaming and manipulation.
+- **Prerequisites**: `10_epistemic_status.md` - Epistemic commitments all entries must honor.
+- **Uses**: `20_taxonomy.md` - Classification tags required in each entry.
+- **Validated by**: `40_what_would_change_our_minds.md` - Each entry must include explicit falsifiers.
+- **Protected by**: `50_adversarial_scenarios.md` - Template design resists gaming and manipulation.
 
 ---
 

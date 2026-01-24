@@ -6,9 +6,9 @@
 
 ## Related Documents
 
-- **Prerequisites**: `00_epistemic_status.md` - Foundational epistemic framework.
-- **Used by**: `02_entry_template.md` - Templates incorporate these classification tags.
-- **Related**: `03_what_would_change_our_minds.md` - Framework itself is subject to revision.
+- **Prerequisites**: `10_epistemic_status.md` - Foundational epistemic framework.
+- **Used by**: `30_entry_template.md` - Templates incorporate these classification tags.
+- **Related**: `40_what_would_change_our_minds.md` - Framework itself is subject to revision.
 - **Reference**: All risk entries in `10_hypotheses/` and responses in `20_mechanisms/`.
 
 ---

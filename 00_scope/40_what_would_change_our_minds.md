@@ -6,10 +6,10 @@
 
 ## Related Documents
 
-- **Prerequisites**: `00_epistemic_status.md` - Foundational principle that "nothing is unfalsifiable."
-- **Used by**: `02_entry_template.md` - Section 9 of all entries must reference this document.
+- **Prerequisites**: `10_epistemic_status.md` - Foundational principle that "nothing is unfalsifiable."
+- **Used by**: `30_entry_template.md` - Section 9 of all entries must reference this document.
 - **Validates**: All hypothesis and response entries in `10_hypotheses/` and `20_mechanisms/`.
-- **Reference**: `04_adversarial_scenarios.md` - Defensive mechanisms include resistance to bad-faith falsification claims.
+- **Reference**: `50_adversarial_scenarios.md` - Defensive mechanisms include resistance to bad-faith falsification claims.
 
 ---
 

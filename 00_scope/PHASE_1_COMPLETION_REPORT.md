@@ -22,11 +22,11 @@ what_would_change_our_minds.md
 
 **After** (Logically sequenced):
 ```
-00_epistemic_status.md              ← Foundation
-01_taxonomy.md                      ← Built on foundation
-02_entry_template.md                ← Uses taxonomy
-03_what_would_change_our_minds.md   ← Applied to entries
-04_adversarial_scenarios.md         ← Protects framework
+10_epistemic_status.md              ← Foundation
+20_taxonomy.md                      ← Built on foundation
+30_entry_template.md                ← Uses taxonomy
+40_what_would_change_our_minds.md   ← Applied to entries
+50_adversarial_scenarios.md         ← Protects framework
 ```
 
 **Rationale**: The numbering now reflects logical dependencies:
@@ -117,25 +117,25 @@ Now includes:
 ### File Dependency Graph (Now Explicit)
 
 ```
-00_epistemic_status.md (FOUNDATION)
+10_epistemic_status.md (FOUNDATION)
     ↓ informs
-01_taxonomy.md (CLASSIFICATION)
+20_taxonomy.md (CLASSIFICATION)
     ↓ enables
-02_entry_template.md (OPERATIONALIZATION)
+30_entry_template.md (OPERATIONALIZATION)
     ↓ requires
-03_what_would_change_our_minds.md (FALSIFIABILITY)
+40_what_would_change_our_minds.md (FALSIFIABILITY)
     ↓ protected by
-04_adversarial_scenarios.md (RESILIENCE)
+50_adversarial_scenarios.md (RESILIENCE)
 ```
 
 ### Reading Order (Now Clear)
 
 For **new contributors**:
-1. Start: `00_epistemic_status.md` (understand the epistemic stance)
-2. Learn: `01_taxonomy.md` (understand the classification system)
-3. Apply: `02_entry_template.md` (write entries following the template)
-4. Validate: `03_what_would_change_our_minds.md` (ensure falsifiability)
-5. Secure: `04_adversarial_scenarios.md` (understand potential weaknesses)
+1. Start: `10_epistemic_status.md` (understand the epistemic stance)
+2. Learn: `20_taxonomy.md` (understand the classification system)
+3. Apply: `30_entry_template.md` (write entries following the template)
+4. Validate: `40_what_would_change_our_minds.md` (ensure falsifiability)
+5. Secure: `50_adversarial_scenarios.md` (understand potential weaknesses)
 
 For **experienced contributors**:
 - Reference as needed; familiar with the dependencies
@@ -145,11 +145,11 @@ For **experienced contributors**:
 ## New Assets Created
 
 ### Primary Assets
-- ✅ `00_epistemic_status.md` - Enhanced with summary and cross-references
-- ✅ `01_taxonomy.md` - Enhanced with summary and cross-references
-- ✅ `02_entry_template.md` - Expanded from 10 to 333 lines (33x expansion)
-- ✅ `03_what_would_change_our_minds.md` - Enhanced with summary and cross-references
-- ✅ `04_adversarial_scenarios.md` - Enhanced with summary and cross-references
+- ✅ `10_epistemic_status.md` - Enhanced with summary and cross-references
+- ✅ `20_taxonomy.md` - Enhanced with summary and cross-references
+- ✅ `30_entry_template.md` - Expanded from 10 to 333 lines (33x expansion)
+- ✅ `40_what_would_change_our_minds.md` - Enhanced with summary and cross-references
+- ✅ `50_adversarial_scenarios.md` - Enhanced with summary and cross-references
 
 ### Navigation Asset
 - ✅ `README.md` - New directory-level documentation (155 lines)
@@ -229,11 +229,11 @@ For **experienced contributors**:
 
 ✅ **All files created successfully**
 ```
-00_epistemic_status.md     (86 lines)
-01_taxonomy.md             (66 lines)
-02_entry_template.md       (333 lines)
-03_what_would_change_our_minds.md (132 lines)
-04_adversarial_scenarios.md (52 lines)
+10_epistemic_status.md     (86 lines)
+20_taxonomy.md             (66 lines)
+30_entry_template.md       (333 lines)
+40_what_would_change_our_minds.md (132 lines)
+50_adversarial_scenarios.md (52 lines)
 README.md                  (155 lines)
 ```
 
@@ -254,11 +254,11 @@ README.md                  (155 lines)
 
 | File | Status | Action |
 |------|--------|--------|
-| 00_epistemic_status.md | NEW | Created with enhancements |
-| 01_taxonomy.md | NEW | Created with enhancements |
-| 02_entry_template.md | NEW | Created with major expansion |
-| 03_what_would_change_our_minds.md | NEW | Created with enhancements |
-| 04_adversarial_scenarios.md | NEW | Created with enhancements |
+| 10_epistemic_status.md | NEW | Created with enhancements |
+| 20_taxonomy.md | NEW | Created with enhancements |
+| 30_entry_template.md | NEW | Created with major expansion |
+| 40_what_would_change_our_minds.md | NEW | Created with enhancements |
+| 50_adversarial_scenarios.md | NEW | Created with enhancements |
 | README.md | NEW | Created (navigation & onboarding) |
 | adversarial_scenarios.md | ARCHIVED | Moved to _archive_ prefix |
 | entry_template.md | ARCHIVED | Moved to _archive_ prefix |
