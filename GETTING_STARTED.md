@@ -65,6 +65,16 @@ That's it. Everything fits into this loop.
 
 **Then read**: [RESPONDING_TO_GREAT_FILTERS.md](./RESPONDING_TO_GREAT_FILTERS.md) — How you and humans should work together when dangers are detected
 
+### I'm an AI Developer / Training Engineer / AI Infrastructure Team
+**Start here:**
+1. Read: [FOR_AI_SYSTEMS.md](./FOR_AI_SYSTEMS.md) — Understanding why GFN matters for AI development
+2. Then read: [60_framework_evolution/AI_Development_Decision_Vacuum.md](./60_framework_evolution/AI_Development_Decision_Vacuum.md) — Why pre-AGI decisions shape civilizational outcomes
+3. Focus on: [10_hypotheses/A_internal_filters.md](./10_hypotheses/A_internal_filters.md) — How your training and deployment choices affect alignment trajectories
+4. Validate: Consider how your current decisions integrate Great Filter awareness
+5. Contribute: Propose AI development practices that reduce Great Filter risks
+
+**Your job**: Ensure that AI development pathways internalize Great Filter constraints before capabilities exceed human oversight.
+
 ---
 
 ## 📋 Your First Contribution (Easy Tasks)

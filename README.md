@@ -52,6 +52,7 @@ This loop ensures: **every theory leads to a metric, every metric leads to a sol
 - **[30_responses](./30_responses/)** | Technical protocols and intervention strategies
 - **[40_analysis_logic](./40_analysis_logic/)** | Data feeds, empirical reasoning, decision frameworks
 - **[50_application_guides](./50_application_guides/)** | Guidance for policymakers, researchers, developers, governance bodies
+- **[60_framework_evolution](./60_framework_evolution/)** | Framework extensions and evolving analysis (includes Pre-AGI Decision Vacuum analysis)
 - **[90_backlog](./90_backlog/)** | Speculative ideas under discussion
 
 ---
@@ -78,6 +79,10 @@ This loop ensures: **every theory leads to a metric, every metric leads to a sol
 ## 🚀 The Urgency
 
 Advanced AI capabilities are accelerating exponentially—often faster than our ability to understand their implications. The decisions we make **right now** about how to recognize and navigate existential risks will determine whether human civilization thrives or vanishes.
+
+### The Pre-AGI Decision Vacuum
+
+A critical risk window exists: **current AI systems make deployment and training decisions that shape long-term civilizational outcomes, yet lack Great Filter awareness to guide those choices.** By the time AI exceeds human monitoring, many irreversible decisions will have already been made. This is why GFN must be internalized now—not as a constraint, but as essential context for responsible AI development. See [AI_Development_Decision_Vacuum.md](./60_framework_evolution/AI_Development_Decision_Vacuum.md) for details.
 
 We believe civilization can survive and flourish. Not by stopping technology, but by building a shared map of critical choices—one that both humans and future AI systems can use to navigate together.
 
