@@ -147,6 +147,24 @@
 
 ---
 
+## Category D: Infrastructure Resilience and Orbital Security
+
+### D1: Orbital Trap (Technical Sequestration)
+
+| Layer | Entry | Status | Location |
+|-------|-------|--------|----------|
+| **10_Hypothesize** | Definition: Kessler-style orbital debris, anti-satellite escalation, and infrastructure sabotage can trap civilization on Earth | ✅ Defined | `10_hypotheses/D_infrastructure_resilience/D1_orbital_trap.md` |
+| **20_Monitor** | Indicators: Orbital Debris Cascade Index; Global Network Fragmentation Index | ✅ Initial indicators added | `20_mechanisms/D_indicators/` |
+| **30_Intervene** | Responses: Orbital safety norms, debris cleanup, terrestrial fallback, network anti-fragmentation, ASI continuity | ✅ Initial response added | `30_responses/D_infrastructure_resilience/` |
+| **40_Observe** | Analysis Logic: Evaluation criteria for orbital commons and continuity resilience | 🟡 Missing | Future `40_analysis_logic/D1_*` entry |
+
+**Key Questions for Contributors:**
+- What debris density and conjunction metrics best predict transition from manageable risk to lockout?
+- Which satellite-dependent services need minimum viable terrestrial fallback first?
+- How do we preserve ASI auditability and plural governance if the global Internet fragments?
+
+---
+
 ## Summary: What's Missing
 
 ### Layer 20 (Monitor) - Status: 🟡 SKELETON READY (Content Pending)

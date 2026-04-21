@@ -64,6 +64,12 @@ We classify risks based on their origin and nature, following the A-B-C framewor
 * **C1: Multi-polar Traps**: Game-theoretical failures where individual rational choices lead to collective ruin.
 * **C2: Governance Failure**: Inability of institutional frameworks to keep pace with technological acceleration.
 
+### Category D: Infrastructure Resilience Risks (The "Base Layer")
+* **D1: Orbital Trap**: Kessler-style debris cascades, anti-satellite escalation, or orbital congestion that deny space access and blind civilization.
+* **D2: Network Fragmentation**: Cable cuts, satellite loss, port blockades, or information-sovereignty regimes that degrade the global Internet into coercible regional intranets.
+
+Use Category D when the core mechanism is not misalignment, external attack, or abstract coordination failure by itself, but the collapse or capture of the physical infrastructure that makes alignment, coordination, and expansion possible.
+
 ## 3. Epistemic Tagging (The Confidence Scale)
 Every entry must be tagged with a status defined in `00_epistemic_status.md`:
 * `[Speculative]`: Early-stage ideas or "What-if" scenarios.

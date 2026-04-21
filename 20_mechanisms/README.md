@@ -24,6 +24,12 @@ We track the "Proximity to the Filter" across several predefined scenarios:
     * *Consensus Decay Rate*: The speed at which shared reality is eroding in digital-first societies.
     * *Synthetic Saturation*: The percentage of the "Cognitive Commons" occupied by unaligned AI agents.
 
+### D. The "Orbital Trap" Filter (Infrastructure)
+* **Objective**: Monitoring if orbital debris, anti-satellite escalation, cable disruption, or network fragmentation removes the infrastructure base required for global coordination and outward expansion.
+* **Key Indicators**:
+    * *Orbital Debris Cascade Index*: Whether LEO congestion is approaching a Kessler-style launch and satellite lockout.
+    * *Global Network Fragmentation Index*: Whether satellite loss, cable cuts, or information-sovereignty policies are degrading the global Internet into regional intranets.
+
 ## 2. Navigational Status (The Dashboard Interface)
 Every indicator must contribute to a high-level "Navigator Status" which informs our strategic posture:
 

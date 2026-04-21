@@ -60,6 +60,11 @@ All responses are organized by the hypotheses they address, following the **A/B/
 - **C3_info_hazard_trap**: Safe dissemination protocols, knowledge quarantine, and responsible disclosure frameworks
 - **C4_inward_turn**: Collective action mechanisms, alignment treaties, and anti-silo coordination
 
+### **Category D: Infrastructure Resilience and Orbital Security**
+*Responses to orbital lockout, satellite dependency collapse, and global network fragmentation*
+
+- **D1_orbital_trap**: Debris-prevention norms, active cleanup, terrestrial fallback systems, cable and satellite redundancy, and ASI anti-capture continuity
+
 ---
 
 ## 🔧 Response Structure: What Each Entry Contains
@@ -198,6 +203,7 @@ Loop repeats with updated knowledge
 - [ ] C2_anthropic_shadow_responses.md
 - [ ] C3_info_hazard_trap_responses.md
 - [ ] C4_inward_turn_responses.md
+- [x] D1_orbital_security_responses.md
 
 **Current Status:** 🔴 **SKELETON PHASE** — Structure defined, content to be populated based on validated hypotheses and indicators.
 

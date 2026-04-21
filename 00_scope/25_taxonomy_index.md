@@ -38,6 +38,8 @@ This document provides quick-lookup tables for the classification system defined
 | **B3** | External/Environment | Ecological Collapse | Synthetic biology or environmental feedback loops | When describing biological or environmental catastrophe |
 | **C1** | Structural/Connection | Multi-polar Traps | Game-theoretical failures in coordination | When describing coordination failures or prisoner's dilemma |
 | **C2** | Structural/Connection | Governance Failure | Institutional inability to keep pace with tech | When describing institutional or governance breakdown |
+| **D1** | Infrastructure/Base Layer | Orbital Trap | Kessler syndrome, anti-satellite debris, orbital denial | When describing loss of orbital access, satellite services, or space expansion path |
+| **D2** | Infrastructure/Base Layer | Network Fragmentation | Cable cuts, sovereign intranets, satellite Internet denial | When describing collapse of global connectivity or ASI governance into regional networks |
 
 ---
 
@@ -111,6 +113,8 @@ This document provides quick-lookup tables for the classification system defined
 | **B3 (Ecological Collapse)** | Institutional, Infrastructural | Need environmental governance + resilience systems |
 | **C1 (Multi-polar Traps)** | Institutional, Cognitive | Need coordination + better decision-making tools |
 | **C2 (Governance Failure)** | Institutional, Cognitive | Need better institutional design + scenario planning |
+| **D1 (Orbital Trap)** | Infrastructural, Institutional | Need debris prevention, launch resilience, orbital norms, and fallback systems |
+| **D2 (Network Fragmentation)** | Infrastructural, Institutional | Need cable/satellite redundancy, plural routing, and anti-capture governance |
 
 ---
 
@@ -152,6 +156,8 @@ This document provides quick-lookup tables for the classification system defined
 | Environment or extinction | B3 |
 | Coordination failure | C1 |
 | Government/institutions | C2 |
+| Satellites, orbital debris, Kessler syndrome | D1 |
+| Undersea cables, Internet fragmentation, sovereign intranets | D2 |
 
 ---
 

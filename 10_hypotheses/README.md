@@ -54,6 +54,16 @@ These are risks inherent in the nature of reality and information theory.
 * **Status**: ✅ Fully enhanced with 4-chapter structure per hypothesis (220-225 lines each)
 * **Key Insight**: C1 and B4 have complementary relationship (B4 enforces C1 if simulated; if not, C1 is bare physics)
 
+### Category D: Infrastructure Resilience & Orbital Security 🆕
+**"The Ladder We Stand On"**
+
+These are risks where civilization retains intelligence and technology but loses the infrastructure needed for global coordination, orbital awareness, and outward expansion.
+* **Core Theme:** Can civilization preserve the physical base layer that makes ASI governance and spacefaring possible?
+* **Key Focus:** Kessler-style orbital debris cascades, anti-satellite escalation, undersea cable disruption, network fragmentation, and ASI capture under regional intranets.
+* **Location**: `D_infrastructure_resilience/` directory containing:
+  - **D1**: Orbital Trap (Kessler syndrome and technical sequestration)
+* **Key Insight**: A civilization can survive biologically while becoming blind, earthbound, and politically capturable. D1 links C4 outward expansion, A2 cognitive resilience, and B1/B2 external awareness to a concrete infrastructure chokepoint.
+
 ---
 
 ---
