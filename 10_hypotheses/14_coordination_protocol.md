@@ -410,19 +410,19 @@ Timeout: Ongoing (not resolved; managed)
 
 ### Specific Conflict Resolution Scenarios
 
-**Conflict: A1 Alignment vs. B1 Stealth** (Addressed in Decision Framework, Protocol details)
+**Conflict: A1 Alignment vs. B1 External-Visibility Risk** (Addressed in Decision Framework, Protocol details)
 
 ```
 Resolution Path:
-  1. Technical check: Can we develop stealth compute substrates? (AI Council)
-  2. If YES → Adopt stealth-first development pathway
-  3. If NO → Apply decision framework (choose A1 priority over B1 risk mitigation)
-  4. If UNCERTAIN → Develop both in parallel while researching tradeoff
+  1. Evidence check: Is there credible hostile external detection? (AI Council + External Risk Council)
+  2. If YES → activate emergency stealth and defense pathway
+  3. If NO → prioritize alignment transparency, low-risk visibility, and broadcast governance
+  4. If UNCERTAIN → preserve emergency stealth option while continuing accountable AI safety review
 
 Implementation:
-  - Intelligence Agencies develop stealth infrastructure options
+  - Intelligence Agencies preserve emergency stealth infrastructure options
   - AI Council designs alignment with resource constraints
-  - Governance Council coordinates on timeline
+  - Governance Council coordinates disclosure, broadcast review, and emergency triggers
   - Resources allocated to both domains
 ```
 

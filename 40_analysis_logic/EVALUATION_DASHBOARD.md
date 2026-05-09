@@ -41,10 +41,10 @@ This dashboard provides a single-view status of how each Great Filter response i
 
 | Response | Key Metric | Current Status | Threshold | Notes |
 |----------|-----------|----------------|-----------|-------|
-| **B1: Dark Forest** | Power consumption | TBD | <500 GW | Continuous monitoring |
-| | Signal discipline | TBD | 90%+ classified | Weekly tracking |
-| | International compliance | TBD | 90%+ coordination | Monthly verification |
-| | IR anomalies | TBD | <1 sigma variance | Continuous |
+| **B1: Dark Forest** | Evidence quality | TBD | Graded UAP/contact claims | Quarterly review |
+| | Broadcast governance | TBD | No unilateral high-risk broadcast | Continuous incident logging |
+| | Transparency preservation | TBD | No blanket secrecy from B1 claims | Semi-annual audit |
+| | Threshold calibration | TBD | Source-backed or provisional labels | Annual review |
 | **B2: Berserker** | Milestone spacing | TBD | >12 months | Quarterly review |
 | | Expansion velocity | TBD | >60-day doubling | Continuous |
 | | Deceleration compliance | TBD | 85%+ participation | Monthly |

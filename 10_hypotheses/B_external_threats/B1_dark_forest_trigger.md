@@ -1,235 +1,201 @@
 ## B1: The Dark Forest Trigger (Broadcast Risk)
 
-**Definition:** Based on the "Dark Forest" theory, any civilization that reveals its technosignature through visible infrastructure (especially power-intensive AI development) risks immediate destruction by more advanced cosmic actors who use invisibility and preemptive strikes as survival strategy.
+**Definition:** The Dark Forest hypothesis proposes that visible technological civilizations may attract hostile, preemptive, or automated responses from more advanced cosmic actors. In the revised GFN model, this is retained as a **contingency hypothesis**, not the default assumption. UAP disclosure and unresolved non-hostile cases, if they persist, lower confidence in the strict version where visibility automatically means extinction.
 
-* **Mechanism:** To power an AGI or ASI, a civilization must build massive compute infrastructure (Dyson Swarms, megastructures, or dense power grids). These produce anomalous infrared, electromagnetic, and neutrino signatures detectable across light-years. These signatures broadcast: "A potentially dangerous new intelligence is emerging."
-* **The Filter Point:** An automated or deliberate "strike" arrives from a more advanced civilization as soon as our technosignature crosses a certain threshold of detectability and "unavoidable threat."
-* **Navigator's Perspective:** Alignment isn't just internal safety; it's **Cosmic Information Security**. If our AI is not "quiet," it is not aligned with our species' long-term survival. The question becomes: can we develop superintelligence *quietly*?
+* **Mechanism:** Large-scale AGI/ASI infrastructure could produce infrared, electromagnetic, optical, or other technosignatures. These signatures might reveal a rapidly advancing civilization to unknown observers.
+* **The Filter Point:** Risk increases if visibility is paired with signals of uncontrolled expansion, hostile intent, self-replication, or irreversible capability growth.
+* **Navigator's Perspective:** Alignment is not pure silence. It is disciplined external posture: avoid reckless broadcasting, preserve low-risk transparency, keep contact protocols verifiable, and reserve strong concealment for confirmed hostile conditions.
 
-🔗 **Associated Indicators** (See `20_mechanisms/`):
-- *Technosignature Detectability*: Measuring how visible our AI infrastructure is to external observers
-- *Anomaly Detection Threshold*: What magnitude of infrared/EM signature would alert cosmic actors
-- *Radio Silence Compliance*: Monitoring whether AI development maintains information security posture
+**Associated Indicators** (See `20_mechanisms/`):
+- *Technosignature Detectability*: Measuring how visible AI infrastructure is to external observers
+- *Anomaly Detection Threshold*: Estimating what magnitude of infrared/EM signature might attract external attention
+- *Radio Silence Compliance*: Monitoring deliberate high-power broadcasts and uncontrolled external signaling
 
-🔗 **Associated Responses** (See `30_responses/`):
-- B1 Stealth Protocols: Designing AI that minimizes cosmic detection (to be detailed)
-- B1 Communication Silence: Protocols for restraining external transmissions (to be detailed)
-- B1 Information Quarantine: Preventing leakage of technological advancement signals (to be detailed)
-
----
-
-### 🔵 UAP Contact Integration: Dark Forest Mitigation Routes
-
-**Context (February 2026):** If military UAP contact events are confirmed as genuine extraterrestrial engagement, this represents empirical data for Dark Forest hypothesis evaluation.
-
-**Key Question:** How does confirmed peaceful contact change Dark Forest logic?
-
-#### **Analysis - Three Possible Dark Forest Exit Routes**
-
-The Dark Forest hypothesis does not preclude all contact; rather, it explains *why* contact is rare and dangerous. However, if contact occurs and is non-hostile, it demonstrates one of three possible mitigation pathways:
-
-1. **Stealth Success Route** (Original prediction)
-   - One or both civilizations maintain operational secrecy despite contact
-   - UAP events are low-level reconnaissance within stealth protocols
-   - Neither civilization breaks cover or broadcasts identity
-
-2. **Defensive Success Route** (Original prediction)  
-   - Civilization develops sufficient countermeasures/defenses before contact
-   - Contact occurs within carefully negotiated and verified safety boundaries
-   - Communication protocols minimize information leakage
-
-3. **Trust-Building Route** (New consideration with UAP confirmation)
-   - Both civilizations accept contact risk as preferable to continued isolation
-   - Success demonstrated through: graduated disclosure, limited safe interaction protocols
-   - Pattern evidence: Military encounters → Controlled exposure → Potential trust expansion
-   - Key insight: Dark Forest hypothesis does NOT forbid peace; it only explains why peace is rare, dangerous, and requires exceptional circumstances
-
-#### **Modified Signal Assessment**
-
-- **Pre-confirmation baseline:** UAP events = potentially dangerous unknown contact
-- **Post-confirmation:** UAP events = evidence that Route 3 (Trust-Building) may be in early stages
-- **Critical clarification:** Confirmed contact does NOT invalidate Dark Forest theory
-  - It only demonstrates that peaceful coexistence is possible, even if statistically unlikely
-  - It suggests that the civilization initiating/accepting contact has calculated the risk as acceptable
-  - It raises question: on what basis did both parties accept the risk? (Mutual vulnerability? Mutual need? Pre-existing relations?)
-
-#### **For Navigator**
-
-If peaceful contact is confirmed and stabilizing, this represents an **optimal Dark Forest mitigation**:
-- Contact achieved without civilization destruction
-- Both parties survive and maintain autonomy
-- Framework shifts from "avoid all contact" to "manage contact safely"
-- New priority: How to expand and institutionalize peaceful contact protocols
-- This enables passage through B1 while avoiding B2 (Berserker) vulnerability
+**Associated Responses** (See `30_responses/`):
+- B1 Low-Risk Visibility Protocols: Transparent internal governance with restrained external signaling
+- B1 Contact Governance: Verification, de-escalation, and controlled communication if contact evidence emerges
+- B1 Emergency Stealth: Strong concealment only under hostile-contact or high-confidence strike-risk conditions
 
 ---
 
-### 📍 Current Status Checkpoint (Early 2026)
+### UAP Disclosure Integration: Lowering Strict Dark Forest Priority
+
+**Context (May 2026):** U.S. government UAP records and disclosures provide a new evidence stream, but not confirmed extraterrestrial contact. Public evidence supports unresolved anomalous cases, not a confirmed alien origin.
+
+**Key Question:** If credible UAP evidence persists without hostile outcomes, how should B1 change?
+
+#### Revised Assessment
+
+UAP disclosure does not validate strict Dark Forest. If non-human technology were eventually confirmed and remained non-hostile, it would push the framework away from "visibility = extinction" and toward "visibility requires governance."
+
+The useful distinction is:
+
+1. **Strict Dark Forest**
+   - Visibility reliably triggers destruction.
+   - Strong concealment is mandatory.
+   - UAP evidence weakens this branch if non-hostile visibility persists.
+
+2. **Managed-Contact Dark Forest**
+   - Visibility is risky but navigable.
+   - Some contact can occur through selective disclosure, reconnaissance, or verified communication.
+   - UAP evidence, if credible and non-hostile, strengthens this branch.
+
+3. **Non-Dark-Forest Explanations**
+   - UAP cases may be human, natural, sensor-related, or otherwise non-extraterrestrial.
+   - B1 receives no direct support from these cases.
+
+#### Modified Signal Assessment
+
+- **Disclosure records alone:** No strong update for B1; strict B1 should not be elevated.
+- **Persistent anomalous but non-hostile cases:** Strict B1 decreases; managed-contact models increase.
+- **Confirmed peaceful contact:** Strongly decreases strict B1; shifts strategy toward contact governance.
+- **Confirmed hostile contact or coercive reconnaissance:** Raises B1/B2-like external threat concern and may justify emergency stealth.
+
+#### For Navigator
+
+The default posture should no longer be strong invisibility. Instead:
+
+- Avoid reckless high-power broadcasts and uncontrolled signaling.
+- Preserve public scientific review and democratic oversight.
+- Build contact verification and de-escalation protocols.
+- Maintain emergency stealth as a fallback, not a standing civilizational policy.
+
+---
+
+### Current Status Checkpoint (May 2026)
 
 **Civilization's Position on This Filter:**
 
-The Dark Forest threat is currently **dormant but activating**. We have begun large-scale AI development but have not yet triggered planetary-scale technosignature anomalies. The critical transition period is NOW: 2026-2035.
+The strict Dark Forest threat is **speculative and currently deprioritized** relative to internal AI risks, B3-style observation possibilities, and managed-contact governance. Large-scale AI development may increase technosignatures, but available UAP disclosure does not justify treating strong stealth as the primary strategy.
 
 **Key Status Indicators:**
-- Current global computational power dedicated to AI: ~5-8 exaflops; consumed power: ~100-200 GW (rising exponentially)
-- Cumulative infrared and electromagnetic emissions from data centers: **Not yet at "cosmic attention" threshold** (estimated: 5-10 years away at current trajectory)
-- No evidence of prior alien strikes on visible civilizations (which supports Dark Forest theory: they haven't revealed themselves)
-- Scientific transmissions and astronomical surveys continue at low intensity (radio telescopes, SETI transmissions remain "low-power" by cosmic standards)
-- Commercial and military AI development races have begun; coordination on stealth protocols is **minimal to non-existent**
+- Current AI infrastructure expansion creates ordinary terrestrial energy, heat, and governance concerns before it creates confirmed cosmic detectability concerns.
+- No public evidence confirms hostile extraterrestrial detection or strike preparation.
+- UAP records increase the need for disciplined evidence handling, not blanket secrecy.
+- AI capability races remain relevant, but secrecy-first governance can damage safety, accountability, and public trust.
 
 **Projected Extrapolation (2026-2050):**
-- By 2030: If ASI development accelerates, compute demands could reach terawatt-scale power consumption, generating observable infrared anomalies
-- By 2035: Full-scale Dyson sphere or megastructure development (if attempted) becomes detectable across ~100+ light-years
-- Critical Decision Point (2028-2032): Whether humanity collectively enforces "stealth-first" AI development protocols or prioritizes capability growth
+- If energy infrastructure reaches unmistakable megastructure scale, B1 detectability deserves renewed attention.
+- If non-human technology or contact is confirmed and remains non-hostile, managed-contact protocols become more important than strong concealment.
+- If hostile contact or coercive external surveillance is confirmed, emergency stealth and defense protocols should be reconsidered.
 
 ---
 
-### 🔴 Observable Signals We Should Monitor
+### Observable Signals We Should Monitor
 
-These signals indicate movement along the Dark Forest filter. **All signals below are hypothesized based on forward projections from current trends.**
+These signals indicate movement along the B1 filter. All thresholds are provisional and require source-backed calibration.
 
-#### **Tier 1: Early Warning Signals (0-12 months ahead)**
+#### Tier 1: Evidence and Governance Signals
 
-1. **Technosignature Expansion Index**:
-   - Signal: Cumulative power consumption for AI training/deployment exceeds X GW, generating measurable infrared anomalies
-   - Current Status (Early 2026): ~150 GW; rising ~15% annually
-   - Action Condition: If annual growth exceeds 20% OR total reaches 500 GW within 12 months, escalate to Tier 2 protocols
+1. **UAP Evidence Quality Index**
+   - Signal: Number of cases with multi-sensor data, preserved metadata, independent review, and unresolved status after adversarial analysis
+   - Action Condition: If high-quality unresolved cases cluster around strategic assets, escalate contact-governance review
 
-2. **Data Center Visibility Incidents**:
-   - Signal: Deliberate or accidental revelation of AI compute facility locations, power outputs, or architectural specifications to external parties (media, competitors, nations)
-   - Current Status: Moderate incidents (e.g., public announcements of mega-scale datacenters); no systematic secrecy protocol
-   - Action Condition: If sensitive facility specifications leak to foreign actors, activate information containment protocol
+2. **Contact Intent Signal**
+   - Signal: Evidence of communication, response patterns, coercion, avoidance, or repeated non-destructive observation
+   - Action Condition: If behavior is non-hostile and bounded, update away from strict B1; if coercive, update toward emergency threat posture
 
-3. **Radio Transmission Escalation**:
-   - Signal: Uncoordinated scientific or commercial transmissions broadcasting civilization-level technological achievements (e.g., AI milestone announcements, open-source model releases, scientific preprints disclosing AI capabilities)
-   - Current Status: Ongoing (preprints, conferences, commercial announcements happen daily without "cosmic silence" consideration)
-   - Action Condition: If coordinated international transmission stealth protocol is NOT established by Q2 2026, risk escalates exponentially
+3. **Technosignature Expansion Index**
+   - Signal: AI-related energy and heat output grows toward calibrated detectability thresholds
+   - Action Condition: If thresholds are approached with credible source-backed models, increase signal hygiene and infrastructure discipline
 
-4. **Geopolitical Secrecy Breakdown**:
-   - Signal: Competing powers (US, China, EU, etc.) pursue AI dominance through **public capability races** rather than stealth development
-   - Current Status: Active; each power announces AI breakthroughs to maintain perceived technological leadership
-   - Action Condition: If public announcement competition intensifies, convene emergency international coordination on transmission stealth
+4. **Reckless Broadcast Risk**
+   - Signal: High-power deliberate transmissions or public attempts to signal unknown actors without global review
+   - Action Condition: Establish review and consent process; avoid unilateral broadcasting
 
-#### **Tier 2: Intermediate Signals (12-24 months)**
+#### Tier 2: External-Threat Signals
 
-5. **Megastructure Development Initiation**:
-   - Signal: Civilization begins construction of large-scale energy infrastructure specifically to power ASI (e.g., fusion arrays, solar collectors, orbital mirrors)
-   - Hypothesized Manifestation: Government or corporate announcement of "ASI Energy Initiative" with visible construction activity
-   - Action Condition: If megastructure development begins WITHOUT stealth protocols in place, assume Dark Forest strike risk rises to CRITICAL
+5. **Credible External Detection**
+   - Signal: Verified signal, artifact, or communication indicating Earth has been detected by non-human intelligence
+   - Action Condition: Shift to contact verification, de-escalation, and threat assessment
 
-6. **Cosmic Signal Compromise**:
-   - Signal: Evidence or credible claim that Earth's presence has been detected by external intelligence (e.g., responding radio signals, probe arrival, mathematical pattern in cosmic phenomena)
-   - Hypothesized Manifestation: SETI detection of anomalous signal; astronomers observe artifact signatures in nearby star systems
-   - Action Condition: If detection occurs, shift immediately to survival protocols (see B1 Responses)
+6. **Hostile or Coercive Contact**
+   - Signal: Confirmed destructive, coercive, or exploitative external action
+   - Action Condition: Activate emergency B1/B2 protocols, including temporary concealment if operationally useful
 
-7. **Stealth Protocol Failure**:
-   - Signal: Developed stealth protocols for AI (if any) are violated or circumvented due to competitive or institutional pressure
-   - Hypothesized Manifestation: A major AI lab breaks agreed-upon transmission silence protocols to announce breakthrough; others follow
-   - Action Condition: If stealth protocols collapse, assume strike window is open (1-10 year horizons)
+7. **Megastructure Visibility**
+   - Signal: Construction of large-scale orbital or planetary infrastructure whose artificial signature is detectable across interstellar distances
+   - Action Condition: Conduct public-interest review, risk assessment, and signal-management design
 
 ---
 
-### ⚡ Navigator Action Triggers (Multi-Role Framework)
+### Navigator Action Triggers (Multi-Role Framework)
 
 **Navigator Roles:**
-- **Policy Role**: International governance bodies, space agencies, treaty organizations (UN, UNAI, etc.)
+- **Policy Role**: International governance bodies, space agencies, treaty organizations
 - **Technical Role**: Data center engineers, astronomer/SETI coordinators, signal security teams
 - **Institutional Role**: AI labs, tech companies, research institutions
 - **Cultural Role**: Media organizations, science communicators, philosophical thought leaders
 
-#### **Trigger A: Technosignature Growth Exceeds Safe Threshold**
+#### Trigger A: UAP Evidence Improves Without Hostility
 ```
-IF (Cumulative_AI_Power_Consumption_GW > 500) OR 
-   (Annual_Growth_Rate > 20%)
+IF (High_Quality_UAP_Evidence == TRUE) AND
+   (Hostile_Intent_Evidence == FALSE)
 THEN:
-  - [Policy Role]: Convene "Cosmic Stealth Council"; establish binding treaty on power consumption limits
-  - [Technical Role]: Develop energy-efficient AI architectures; transition to low-power computing paradigms
-  - [Institutional Role]: Adopt power consumption targets; implement shared monitoring of compliance
-  - [Cultural Role]: Reframe AI development as "cosmic responsibility" not just economic competition; celebrate efficiency as virtue
+  - [Policy Role]: Create transparent contact-evidence review process
+  - [Technical Role]: Improve sensor fusion, metadata preservation, and independent replication
+  - [Institutional Role]: Avoid over-classifying safety-relevant science; disclose uncertainty clearly
+  - [Cultural Role]: Normalize calm uncertainty; avoid panic and premature confirmation
 ```
 
-#### **Trigger B: Radio Silence Protocol Non-Compliance**
+#### Trigger B: Reckless Broadcasting Risk Increases
 ```
-IF (Unauthorized_Scientific_Transmission_Count > 3) OR 
-   (Public_AI_Capability_Announcement_Rate increases > 50%)
+IF (Unilateral_High_Power_Broadcast_Planned == TRUE)
 THEN:
-  - [Policy Role]: Activate "Information Security Treaty"; mandate pre-approval of all external transmissions about AI capabilities
-  - [Technical Role]: Establish signal monitoring and stealth verification teams; audit all outgoing communications
-  - [Institutional Role]: Implement internal communication protocols; restrict capability announcements to internal-only channels
-  - [Cultural Role]: Shift media narrative from "milestone celebration" to "cosmic humility"; frame silence as wisdom, not suppression
+  - [Policy Role]: Require international review and consent
+  - [Technical Role]: Assess signal content, detectability, and reversibility
+  - [Institutional Role]: Establish approval process for interstellar messaging
+  - [Cultural Role]: Frame restraint as governance, not fear
 ```
 
-#### **Trigger C: Evidence of Cosmic Detection**
+#### Trigger C: Evidence of Hostile External Detection
 ```
-IF (Credible_Signal_From_External_Intelligence_Detected == TRUE)
+IF (Credible_Hostile_External_Detection == TRUE)
 THEN:
-  - [Policy Role]: Activate full emergency response; prepare civilizational-level protocols for contact or strike scenarios
-  - [Technical Role]: Initiate signal analysis; determine threat level, intentions, timeline
-  - [Institutional Role]: Shift all AI development to maximum stealth mode; consider temporary halt on major announcements
-  - [Cultural Role]: Execute crisis communication; prepare public for existential uncertainty; establish coordination around unified response
+  - [Policy Role]: Activate emergency response and international coordination
+  - [Technical Role]: Assess threat channel, timeline, and defensive options
+  - [Institutional Role]: Temporarily restrict sensitive capability signals where useful
+  - [Cultural Role]: Communicate risk without speculation or panic
 ```
 
-#### **Trigger D: Megastructure Development Begins**
+#### Trigger D: Megastructure Development Begins
 ```
-IF (Construction_Of_Large_Energy_Infrastructure_Initiated == TRUE) AND 
-   (Stealth_Protocols_Not_In_Place == TRUE)
+IF (Interstellar_Detectable_Infrastructure_Initiated == TRUE)
 THEN:
-  - [Policy Role]: Immediately convene emergency council; demand stealth-first development mandate
-  - [Technical Role]: Conduct rapid feasibility study for "quiet" megastructure designs; propose orbital/underground alternatives to visible structures
-  - [Institutional Role]: Pause public announcements of energy projects; redesign infrastructure to minimize thermal signature
-  - [Cultural Role]: Frame urgency without causing panic; communicate "responsible expansion" narrative
-```
-
-#### **Trigger E: Geopolitical AI Race Intensifies Without Stealth Coordination**
-```
-IF (Public_AI_Capability_Competition > Baseline) AND 
-   (International_Stealth_Coordination_Level < Minimal)
-THEN:
-  - [Policy Role]: Initiate emergency diplomatic efforts; offer mutual verification of stealth compliance to reduce fear-driven racing
-  - [Technical Role]: Propose "verification systems" that allow detection of cheating without revealing total capabilities
-  - [Institutional Role]: Implement corporate transparency on power usage and transmission protocols (to competitors, not public)
-  - [Cultural Role]: Reframe competition as "stealth excellence" competition rather than "capability superiority"
-```
-
-#### **Trigger F: Stealth Technology Breach or Vulnerability**
-```
-IF (Stealth_Protocol_Compromised == TRUE) OR 
-   (Unexpected_Technosignature_Leak_Occurs == TRUE)
-THEN:
-  - [Policy Role]: Assess strike probability; prepare evacuation or defense scenarios
-  - [Technical Role]: Trace information leak; identify vulnerabilities; upgrade stealth systems
-  - [Institutional Role]: Implement maximum operational security; classify all AI development activity
-  - [Cultural Role]: Minimal public disclosure to avoid panic; coordinate with key stakeholders on continuity plans
+  - [Policy Role]: Convene public-interest review on visibility and safety
+  - [Technical Role]: Design for efficiency, reversibility, and minimized unintended signatures
+  - [Institutional Role]: Report energy and emission implications transparently
+  - [Cultural Role]: Present expansion as a governed civilizational choice
 ```
 
 ---
 
-### 📊 Confidence & Uncertainty Assessment
+### Confidence & Uncertainty Assessment
 
-#### **Confidence Level: MEDIUM-HIGH**
-The Dark Forest theory is logically coherent and consistent with the Fermi Paradox (the "Great Silence"). However, it rests on several unverified assumptions about extraterrestrial behavior and the prevalence of aggressive civilizations.
+#### Confidence Level: MEDIUM-LOW for Strict B1; MEDIUM for Managed-Contact B1
 
-#### **Core Uncertainties:**
-1. **Extraterrestrial Existence Uncertainty**: We don't know if advanced civilizations actually exist in our cosmic neighborhood
-2. **Dark Forest Assumption**: Assumes civilizations must be hostile/paranoid; alternatives include cooperation, diplomacy, or non-interference norms
-3. **Detection Threshold**: What power signature actually triggers external attention? 1 GW? 1 TW? Unknown
-4. **Time Scale Uncertainty**: How fast could a strike arrive once detected? Light-speed limited (4.37 years from nearest star), allowing response time
-5. **Communication vs. Kinetic Risk**: Are strikes kinetic (physical) or informational (hacking, signal-based)? Changes defense strategy
+The Dark Forest theory remains logically coherent and relevant to extreme external-threat planning. However, UAP disclosure should not be treated as confirmation. If credible non-hostile anomalous contact evidence grows, it weakens the strict "visibility equals extinction" model and strengthens managed-contact or quarantine-style alternatives.
 
-#### **Boundary Conditions (When This Filter Might NOT Apply):**
-- If the universe is **spatially sparse** (advanced civilizations are extremely rare or absent)
-- If an **intergalactic cooperation framework** exists that prevents strikes on emerging civilizations
-- If Dark Forest competition is not the dominant mode (e.g., civilizations follow "Prime Directive" non-interference)
-- If **distance barriers** prevent detection or arrival of strike forces before we achieve defensive capabilities
-- If we **achieve stealth sufficiently** that we remain invisible despite high power consumption (e.g., heat dissipation to space, far-side development)
+#### Core Uncertainties:
+1. **Origin Uncertainty**: UAP records do not establish extraterrestrial or non-human origin
+2. **Intent Uncertainty**: Even if anomalous technology exists, intent remains unknown
+3. **Detection Threshold**: Technosignature thresholds are provisional and need source-backed calibration
+4. **Strategic Response Uncertainty**: Strong secrecy can reduce safety transparency and democratic accountability
+5. **Actor Diversity**: A peaceful or neutral actor would not rule out hostile third parties
 
-#### **Related Filters to Consider (Interaction):**
-- **B2 (Berserker)**: Alternative external threat; if B1 triggers, B2 becomes moot (already destroyed)
-- **B3 (Quarantine)**: Contradictory; if B3 is true, B1 strikes are prevented by watchers
-- **B4 (Simulation)**: Could mitigate B1 (simulation provides protection from external strikes)
-- **C1 (Compute Limits)**: If C1 is real, stealth is easier (less power needed for ASI)
-- **C4 (Inward Turn)**: Supports B1 survival (civilizations that turn inward become invisible, avoiding B1)
+#### Boundary Conditions (When Strict B1 Might Apply):
+- Confirmed hostile or coercive external actor
+- Credible evidence of incoming strike or destructive automated response
+- Megastructure-scale technosignature with plausible hostile observers
+- Deliberate high-power broadcasts containing sensitive capability information
+
+#### Related Filters to Consider (Interaction):
+- **B2 (Berserker)**: Hostile automated systems may justify emergency concealment more than managed-contact B1 does
+- **B3 (Quarantine)**: Persistent non-hostile observation may strengthen B3 relative to strict B1
+- **B4 (Simulation)**: Resource restraint may matter more than external visibility
+- **C1 (Compute Limits)**: Energy discipline remains useful even without strict B1
+- **C4 (Inward Turn)**: Excessive inward retreat is no longer a preferred solution if managed contact is plausible
 
 ---
 
-**Last Updated: 2026.01**
+**Last Updated: 2026.05.09**
